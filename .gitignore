@@ -1,0 +1,9 @@
+# ignore
+
+# soft local navigation links
+*\[
+]*
+
+# system stuff
+*.swp
+.DS_STORE
