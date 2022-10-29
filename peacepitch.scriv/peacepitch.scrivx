@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="7C1E61DD-CDB0-4771-8DE4-A607D3C05696" Version="2.0" Creator="SCRMAC-3.2.3-14868" Device="Blairs-MacBook-Pro" Author="" Modified="2022-10-29 10:01:43 -0800" ModID="B66BC55C-41A0-4C63-9C14-31753305F800">
+    <Binder>
+        <BinderItem UUID="76AC8526-A1BD-4D5E-8DCA-7C27BB24F313" Type="DraftFolder" Created="2022-10-16 12:02:58 -0800" Modified="2022-10-16 12:02:58 -0800">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="58D77F7A-DC1F-42A7-BABA-06C6FD37E62B" Type="Text" Created="2022-10-16 16:09:52 -0800" Modified="2022-10-16 19:46:40 -0800">
+                    <Title>3W</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3386,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="474EB5D4-5C3D-408A-9D86-E4A28D0C2170" Type="Text" Created="2022-10-17 12:57:14 -0800" Modified="2022-10-22 07:24:12 -0800">
+                    <Title>SCRATCHPAD</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="25EB0918-6C76-421D-AEBB-A6A092703973" Type="Folder" Created="2022-10-16 12:47:14 -0800" Modified="2022-10-16 12:47:25 -0800">
+            <Title>study in peace</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>B3B7236D-C2AE-4C71-8EE4-A7DA0B727528</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="6AC87B3E-1640-4AFD-8FA6-DEDCD28AC8A1" Type="Text" Created="2022-10-16 12:47:52 -0800" Modified="2022-10-16 12:48:29 -0800">
+                    <Title>Opening</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>795,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B9446CA3-A0D6-40A4-8955-7FAB1236A137" Type="Text" Created="2022-10-16 12:48:31 -0800" Modified="2022-10-16 12:49:07 -0800">
+                    <Title>Forward</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2802,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="779ADD70-5D7D-4E2E-BB77-093D3B3E3D6F" Type="Text" Created="2022-10-16 12:48:58 -0800" Modified="2022-10-16 12:49:18 -0800">
+                    <Title>Forward 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1727,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="984308F9-26A7-4C2D-9207-A348C6874653" Type="Folder" Created="2022-10-16 12:49:19 -0800" Modified="2022-10-16 12:49:38 -0800">
+                    <Title>Part I - 101</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E2E182BB-5855-44AF-B82E-1085C234A9CA" Type="Text" Created="2022-10-16 12:53:43 -0800" Modified="2022-10-23 15:21:00 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>927,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="541D7B1E-641B-4AAF-8E19-62D28A0C2B10" Type="Text" Created="2022-10-16 12:49:36 -0800" Modified="2022-10-23 10:45:00 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4924,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="459F73FF-CA5C-425C-848A-1C1D1D6FE286" Type="Text" Created="2022-10-16 12:50:31 -0800" Modified="2022-10-23 10:45:00 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7033,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1554186B-E9C1-4AA7-9177-066ECE862D69" Type="Text" Created="2022-10-16 12:50:52 -0800" Modified="2022-10-23 10:45:00 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4805,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="72CEF6CB-E554-4A76-BEC4-265969DD9BEA" Type="Text" Created="2022-10-16 12:51:17 -0800" Modified="2022-10-23 10:45:00 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6030,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="60AFD866-728C-4194-929D-B41DBCBB12F3" Type="Text" Created="2022-10-16 12:52:00 -0800" Modified="2022-10-23 10:45:00 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7137,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1A1AE5A3-9249-4461-B717-B4B527264BCC" Type="Text" Created="2022-10-16 12:52:20 -0800" Modified="2022-10-23 10:45:00 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6061,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6BCF43E0-AC03-495C-BC2E-BD85735FDC33" Type="Text" Created="2022-10-16 12:52:42 -0800" Modified="2022-10-23 10:45:00 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5582,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="DF21BF72-52FB-42ED-9622-C424DB71FEFE" Type="Folder" Created="2022-10-16 12:53:07 -0800" Modified="2022-10-16 12:53:18 -0800">
+                    <Title>Part II - Main Course</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="5ACAE7DD-317B-409A-83F1-6C37E3598FCB" Type="Text" Created="2022-10-16 12:54:12 -0800" Modified="2022-10-23 10:45:26 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="697E3268-7A48-4049-A84C-1060D6AEE13A" Type="Text" Created="2022-10-16 12:55:29 -0800" Modified="2022-10-23 10:45:26 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>15937,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A16401F8-E409-43DC-8580-83245B14ED27" Type="Folder" Created="2022-10-16 12:56:03 -0800" Modified="2022-10-23 10:45:26 -0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="68C44B5F-7ABF-4F7D-9EC5-0C56CA00056F" Type="Text" Created="2022-10-16 12:56:32 -0800" Modified="2022-10-23 10:45:26 -0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3015,0</TextSelection>
+                                    </TextSettings>
+                                    <Bookmarks>
+                                        <Bookmark BinderUUID="68C44B5F-7ABF-4F7D-9EC5-0C56CA00056F"/>
+                                    </Bookmarks>
+                                </BinderItem>
+                                <BinderItem UUID="B6A77660-3170-4179-BE72-2D83B431B36C" Type="Text" Created="2022-10-16 12:57:14 -0800" Modified="2022-10-23 10:45:26 -0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>26805,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="726196DC-784A-4955-803D-52E4ED61D226" Type="Text" Created="2022-10-16 12:58:30 -0800" Modified="2022-10-23 10:45:26 -0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5695,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="BFCF8A7A-3D35-46DA-A462-4F1A4FA4BCB6" Type="Folder" Created="2022-10-22 09:41:09 -0800" Modified="2022-10-22 09:41:12 -0800">
+            <Title>MISC</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Musical Notes</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="6F0AE9AD-E82D-4BFB-BE2A-19132F99B94C" Type="Text" Created="2022-10-16 14:00:24 -0800" Modified="2022-10-22 09:41:21 -0800">
+                    <Title>Statement to USA</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1050,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0271D82B-3E3D-428B-AB34-9F889B383BEE" Type="Text" Created="2022-10-22 09:41:43 -0800" Modified="2022-10-23 09:06:53 -0800">
+                    <Title>Existence Statements</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>23,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="963EC089-E918-41C5-B242-FB8EF6F55A62" Type="Text" Created="2022-10-23 09:10:59 -0800" Modified="2022-10-23 10:28:27 -0800">
+                    <Title>Bias Values</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>859,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1A0D25E9-87D8-4AA1-BA2D-224C06BDBD0E" Type="Text" Created="2022-10-23 09:14:39 -0800" Modified="2022-10-23 09:25:24 -0800">
+                    <Title>The Gamble</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>968,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BC764ADE-DA28-4F66-A35B-3781190CF699" Type="Text" Created="2022-10-26 05:33:33 -0800" Modified="2022-10-26 05:35:44 -0800">
+                    <Title>Quotes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>92,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="D4B3C05C-041D-4FA3-A6F3-0BECE0F3562E" Type="Text" Created="2022-10-22 07:54:19 -0800" Modified="2022-10-22 08:52:06 -0800">
+            <Title>GLOSSARY OF TERMS AND ACRONYMS</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>1662,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="6E708BAB-A583-43C9-87E8-E498DA411826" Type="ResearchFolder" Created="2022-10-16 12:02:58 -0800" Modified="2022-10-16 12:02:58 -0800">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="C953D111-9CFC-4992-A003-7296DAA531DE" Type="Folder" Created="2022-10-23 15:03:17 -0800" Modified="2022-10-23 15:03:49 -0800">
+            <Title>STORY ARCS</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Figures and Graphs</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="D607E42A-9459-4DA2-94C5-C5F3B415628F" Type="Text" Created="2022-10-23 15:03:52 -0800" Modified="2022-10-28 07:21:39 -0800">
+                    <Title>the great pumpkin incident</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4206,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="07161647-3B22-465E-86F7-847D12FC9E5A" Type="Text" Created="2022-10-25 07:27:19 -0800" Modified="2022-10-25 07:27:26 -0800">
+                    <Title>spy games</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="ECF6EC02-AB9E-47FD-A42F-8FEAAF49E258" Type="Text" Created="2022-10-25 07:27:27 -0800" Modified="2022-10-28 06:32:13 -0800">
+                    <Title>more money</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DCA6F78F-8C74-45DE-8C6A-5028037D4C3B" Type="Text" Created="2022-10-25 07:27:34 -0800" Modified="2022-10-29 08:37:55 -0800">
+                    <Title>actual intelligence</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1115,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1EE4FC27-C1AD-47CA-A148-0E55362FC578" Type="Text" Created="2022-10-25 07:27:42 -0800" Modified="2022-10-25 07:27:56 -0800">
+                    <Title>universal language</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="814D6FDE-ED68-4AC7-A6BD-21C28D3BF50C" Type="Text" Created="2022-10-25 07:27:56 -0800" Modified="2022-10-28 04:39:50 -0800">
+                    <Title>timespace matter mindmachine</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>17850,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6A36BA06-39CB-4A64-B295-8A66A5B1F996" Type="Text" Created="2022-10-25 07:28:08 -0800" Modified="2022-10-26 05:49:36 -0800">
+                    <Title>qualitative difference physics</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3831,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A094FC80-2C83-4761-93D7-7C37AF15D98A" Type="Text" Created="2022-10-26 05:50:46 -0800" Modified="2022-10-29 10:01:43 -0800">
+                    <Title>the end of as we know it</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>34,10</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8217F1E4-A17D-4DEC-8FD5-A58E31EFE20F" Type="Text" Created="2022-10-25 07:28:20 -0800" Modified="2022-10-29 05:40:58 -0800">
+                    <Title>cheating death, buying time</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8025,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6F94DBBB-4EC9-4AF7-BF6E-BE0AED52E99C" Type="Text" Created="2022-10-27 06:57:44 -0800" Modified="2022-10-29 07:01:26 -0800">
+                    <Title>computational pieace fractal blob</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4051,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="99569ADC-9BF5-43C9-8044-3F6F678C6AA5" Type="Folder" Created="2022-10-22 09:30:08 -0800" Modified="2022-10-28 07:19:36 -0800">
+            <Title>TRIARCHIES</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Statistics</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>439,28</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="66EFAA04-31F7-4785-83A1-4420463E4890" Type="Text" Created="2022-10-22 07:27:04 -0800" Modified="2022-10-25 07:18:09 -0800">
+                    <Title>people | time | energy (why)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10631,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="17626E58-0D87-4417-971A-55A94C68396B" Type="Text" Created="2022-10-22 08:53:07 -0800" Modified="2022-10-22 09:37:19 -0800">
+                    <Title>education | language | consilience (how)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="ED82BAF4-96BB-477A-8DD2-CE7D9D83AEE9" Type="Text" Created="2022-10-22 07:26:13 -0800" Modified="2022-10-22 09:39:13 -0800">
+                    <Title>economic | political | social (how)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6E5EBAD4-79CF-452D-B4D8-F42948591133" Type="Text" Created="2022-10-22 07:29:13 -0800" Modified="2022-10-22 09:39:51 -0800">
+                    <Title>individual | local | global (what)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F10F64F5-FD29-4706-9D30-BBE6C0C1B8D1" Type="Text" Created="2022-10-22 09:20:30 -0800" Modified="2022-10-22 09:40:19 -0800">
+                    <Title>hardware | operating system | software (how)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AEBCFDDA-DBE8-45F4-B8D7-3B4767517D0C" Type="Text" Created="2022-10-22 07:28:29 -0800" Modified="2022-10-22 09:39:59 -0800">
+                    <Title>process | brain | space (how)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="12456F90-CC70-41FF-8031-DBBE21DFA16D" Type="Text" Created="2022-10-22 09:21:37 -0800" Modified="2022-10-22 09:39:19 -0800">
+                    <Title>stuff | things | pieces (what)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3185EDF1-C0E7-472A-9072-78F2B6E28BC5" Type="Text" Created="2022-10-22 09:25:11 -0800" Modified="2022-10-22 09:39:42 -0800">
+                    <Title>information | knowledge | wisdom (what)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9EBBF6DE-196F-402E-AAEC-E3D06190196F" Type="Text" Created="2022-10-22 09:26:36 -0800" Modified="2022-10-22 09:37:08 -0800">
+                    <Title>plan | tactic | strategy (how)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="D80AC75D-6B7A-49EA-AB3A-3C56BA1F4E70" Type="Folder" Created="2022-10-22 07:27:52 -0800" Modified="2022-10-22 08:09:15 -0800">
+            <Title>QUESTIONS</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Outline</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="662A64A9-F7D3-4ED0-AD0B-9F7CE410B2ED" Type="Folder" Created="2022-10-22 07:34:14 -0800" Modified="2022-10-22 07:37:54 -0800">
+                    <Title>piece computer</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="5F377FB4-3E3E-4BBD-8224-291A26976DDB" Type="Folder" Created="2022-10-22 07:34:45 -0800" Modified="2022-10-22 07:53:40 -0800">
+                            <Title>why (does the piece computer matter)?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="312FBE3C-ABF4-46E2-9E5E-CDD5A8F7E443" Type="Text" Created="2022-10-22 07:36:23 -0800" Modified="2022-10-22 07:54:13 -0800">
+                                    <Title>Why should WE care?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="47812109-F839-4431-9687-667AE10F40A7" Type="Text" Created="2022-10-22 07:47:42 -0800" Modified="2022-10-22 07:48:32 -0800">
+                                            <Title>Why does it matter economically?</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="1E8687D4-689B-4E62-8099-812303B4309E" Type="Text" Created="2022-10-22 07:47:54 -0800" Modified="2022-10-22 07:48:44 -0800">
+                                            <Title>Why does it matter politically?</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="5A1F4587-6F29-46CE-B394-BE14553B62EA" Type="Text" Created="2022-10-22 07:48:45 -0800" Modified="2022-10-22 07:49:08 -0800">
+                                            <Title>Why does it matter socially?</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="E98FC144-2F17-4F62-A646-CB878D3F180C" Type="Text" Created="2022-10-22 08:00:24 -0800" Modified="2022-10-22 08:01:06 -0800">
+                                    <Title>Why is this necessary?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="EA456216-C452-4BB6-BF74-37347D2F95B3" Type="Folder" Created="2022-10-22 07:34:54 -0800" Modified="2022-10-22 08:03:05 -0800">
+                            <Title>how (does the piece computer help)?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="3A3B790A-5FE2-497B-BBB8-1C0DBF57CBCE" Type="Text" Created="2022-10-22 08:02:35 -0800" Modified="2022-10-22 08:08:18 -0800">
+                                    <Title>How would it work?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D8024560-72C8-4298-B953-9FE4A1047D6C" Type="Text" Created="2022-10-22 08:05:02 -0800" Modified="2022-10-22 08:09:07 -0800">
+                                    <Title>How would it </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="76118B13-9ACC-4418-88D8-29502FD1F9AE" Type="Folder" Created="2022-10-22 07:35:04 -0800" Modified="2022-10-22 08:05:24 -0800">
+                            <Title>what?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="43D4FBB2-4563-4ACF-9582-4975E8FB14B6" Type="Text" Created="2022-10-22 07:46:46 -0800" Modified="2022-10-22 08:07:59 -0800">
+                                    <Title>What will it do?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5AC41C7F-13BE-4D69-9F80-6A212DF0DABA" Type="Text" Created="2022-10-22 08:05:26 -0800" Modified="2022-10-22 08:07:53 -0800">
+                                    <Title>What will it solve?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="90D3DA55-839B-4FDC-B12C-B69844C2DA55" Type="Text" Created="2022-10-22 08:05:34 -0800" Modified="2022-10-22 08:07:49 -0800">
+                                    <Title>What will it produce?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="875D3FEE-7E16-4952-B015-06BD8FECAED9" Type="Text" Created="2022-10-22 07:46:54 -0800" Modified="2022-10-22 08:07:42 -0800">
+                                    <Title>What will it look like?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="ADD8611C-8010-4076-9B64-FC5FAA736497" Type="Text" Created="2022-10-22 07:47:01 -0800" Modified="2022-10-22 08:06:25 -0800">
+                                    <Title>What do WE need to make one?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2A57CB37-F594-4737-A017-2B852E325DE6" Type="Text" Created="2022-10-22 08:06:10 -0800" Modified="2022-10-22 08:06:21 -0800">
+                                    <Title>What </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="1B39B535-30A8-4339-814C-73C56211F8CA" Type="TrashFolder" Created="2022-10-16 12:02:58 -0800" Modified="2022-10-16 12:02:58 -0800">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="AFDB1934-9E9B-4C3A-8A60-BEAA70B5616A" Type="Text" Created="2022-10-16 12:02:58 -0800" Modified="2022-10-16 12:02:58 -0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C187A35E-0E1A-4BFB-AC84-CE22A4573DDF" Type="Text" Created="2022-10-16 12:51:50 -0800" Modified="2022-10-16 12:51:50 -0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B3B7236D-C2AE-4C71-8EE4-A7DA0B727528" Type="Text" Created="2022-10-16 12:47:37 -0800" Modified="2022-10-16 12:55:58 -0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>101572,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E292043C-770D-40DC-BF3C-B822B3323D83" Type="Text" Created="2022-10-16 13:54:43 -0800" Modified="2022-10-16 13:59:57 -0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,425</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E1562711-EABA-4AB8-8C60-FBDD41752318" Type="Text" Created="2022-10-16 12:47:01 -0800" Modified="2022-10-16 12:47:01 -0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="708AFEBC-6F8D-4A90-8609-DC4C005BE227" Type="Text" Created="2022-10-16 12:47:01 -0800" Modified="2022-10-16 12:47:01 -0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AC7301F3-33C8-43D6-91AF-D025FB082069" Type="Text" Created="2022-10-22 07:38:33 -0800" Modified="2022-10-22 07:39:11 -0800">
+                    <Title>Why would Humanity want one?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B0D0B75A-22C5-4D75-B603-92AAFEF4ABA8" Type="Text" Created="2022-10-22 07:41:21 -0800" Modified="2022-10-22 07:41:34 -0800">
+                    <Title>Why would we want one?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B47BE1D3-32FD-45D8-8D67-D1436CFF702E" Type="Text" Created="2022-10-22 07:41:36 -0800" Modified="2022-10-22 07:44:05 -0800">
+                    <Title>Why would I want one?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BCE92C60-5291-4626-A2A4-697D1733C981" Type="Text" Created="2022-10-22 07:35:47 -0800" Modified="2022-10-22 07:49:39 -0800">
+                    <Title>Why should we care?-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="833F8906-70CC-4B76-9119-FCB337C45EFB" Type="Text" Created="2022-10-22 07:35:47 -0800" Modified="2022-10-22 07:49:39 -0800">
+                    <Title>Why should we care?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="82501535-FA9A-47DB-8990-B06B429B0AB5" Type="Text" Created="2022-10-22 07:38:14 -0800" Modified="2022-10-22 07:49:50 -0800">
+                    <Title>Why should Humanity care?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DEC11D41-C6B0-412C-8E9B-16AC2F4E22CE" Type="Text" Created="2022-10-28 07:10:29 -0800" Modified="2022-10-28 07:10:43 -0800">
+                    <Title>blob</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="7DF1A8D1-919D-4AF3-88E9-4D40FEFC50F7" Color="1.0 1.0 1.0">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="CC9578F0-B13A-457A-B451-C64BF4476C18" Color="0.922173 0.818612 0.999627">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="DEC1E8D7-7375-468A-8291-9F6EB899BDF5">Heading</Type>
+            <Type ID="F45FF627-38F5-4343-A388-5EE0D4C5BFB2">Sub-Heading</Type>
+            <Type ID="58662F8C-08BA-4E05-8DB6-91351D6AE22E">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>DEC1E8D7-7375-468A-8291-9F6EB899BDF5</Type>
+            </Folders>
+            <Containers>
+                <Type>58662F8C-08BA-4E05-8DB6-91351D6AE22E</Type>
+            </Containers>
+            <Files>
+                <Type>58662F8C-08BA-4E05-8DB6-91351D6AE22E</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701227 0.732594">Red</Label>
+            <Label ID="1" Color="0.995418 0.790968 0.65239">Orange</Label>
+            <Label ID="2" Color="0.99772 0.892753 0.652574">Yellow</Label>
+            <Label ID="3" Color="0.715848 0.948734 0.697698">Green</Label>
+            <Label ID="4" Color="0.702312 0.888297 0.97426">Blue</Label>
+            <Label ID="5" Color="0.957564 0.766768 0.999625">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-10-16 12:02:57 -0800" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2022-10-30 01:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2022-10-29 05:11:27 -0800"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2022-10-29 00:00:00 -0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>1575</OtherWordCount>
+        <OtherCharCount>9646</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.000027,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

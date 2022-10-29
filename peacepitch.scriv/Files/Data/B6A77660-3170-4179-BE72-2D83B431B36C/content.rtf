@@ -1,0 +1,232 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;\f2\fnil\fcharset0 HelveticaNeue-Italic;
+}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab720
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\b\fs22 \cf0 2-2.1 A reflection on computers\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f1\b0 \cf0 \
+Classical computers work with bits -- ones and zeros that represent information in binary format. If a classical computer needs to manipulate the symbol 'the image of person', then it needs to input the single image somehow (a camera) and convert the entire thing into a huge string of bits. Once it has those bits, it can then manipulate the image by filtering or transforming certain bits to represent different color or size, for example. After computing the result, all those bits need to be converted back into a form that lets us see the altered image on a display.\
+\
+This is super inefficient, but we can get away with it usually by running fast processor cycles, or by introducing a GPU, graphics processing unit to process bits in parallel. The reality is that bits aren't a very natural representation of things, unless we are representing existence, events, or switches, etc. The reality is that the things that matter to humans reach beyond physicality to stretch in concepts, ideas, qualities, people, etc.\
+\
+Now, to say that computers compute 'stuff' is essentially to say that they can work with objects and things. This is not what computers compute. Computers compute bits. The stuff people are thinking of is actually the signal from a thing, which the computer has to sample at the end of a bunch of wires in order to get bits to start processing at all. So the process goes, computer works with bits to get a thing's signal from an input device so that it looks like bits instead of the thing's actual appearance. Then computer does things to the bits to alter the overall collection that represents the thing. Finally computer works with bits to get them so that an output device can project them in a way that recreates the signal (image in this case) of the thing.\
+\
+This is a lot of extra work. The reason we have to do this is because modern Von Neumann style processors only work on small strings of bits at a time (called 
+\f2\i words
+\f1\i0 ). A thing must be broken into little bits (literally) before if can we worked on, one little bit at a time. Modern GPUs are a step improved from this direction. A GPU has many little Von Neumann processors arranged in a grid. Instead of bits going through one word at a time, the GPU processes a grid of words in one single process cycle. This is more efficient, but still bits need to be prepared properly before they can be fed into a GPU.\
+\
+As for 
+\f2\i why 
+\f1\i0 this is the fact with classical computers, all of the electronics used by digital computers use 
+\f2\i wires
+\f1\i0 . A wire is a line of metal that conducts electricity. Digital computers rely on a concept called 
+\f2\i repeaters 
+\f1\i0  to send bits down a wire. A repeater is a way to catch bits coming in from one wire, and send the same bits down another wire. It works by sampling the bits at the end of a wire. (The bits are in the form of a signal again because the switch that creates the bits is not ideal, as in it doesn't click on and off instantaneously, so there is a little slop in the bits.) Bits sampled at the end of the wire are fed into a buffer (thing that stores information or bits temporarily). The buffer usually has logic that checks the incoming bits for errors, then once they are corrected automatically, the buffer is emptied into a transmitter that sends the bits along on the new wire. This process happens all the time in a computer.\
+\
+An object reflecting light towards a camera, for example, emits a plane wave. The camera though, has to use a bunch of wires arranged in a grid if it wants to sample the whole plane wave simultaneously. This is inefficient. An example of an efficient (but not practical) way of manipulating an image is to set an object in front of an optical device, say it's a convex lens, and position yourself on the other side. The image looks larger, and it did this without turning the input image into bits first. If you wanted to capture this image into a non-digital memory, you can simply take a picture of the image with a polaroid camera. A modern computer could do this obviously, just the only difference is that instead of a lens to compute, you have a 'size' option in your image editing application, and the option tells your processor to process the bits in a way that makes the image look larger when you see it on the screen. Practical, but relatively inefficient.\
+\
+Yeah bits are a pain when everything is a bit. Bits are also too hard to manage when we are working with many complicated objects. For these cases, one usually needs extremely expensive computers to be able to simulate (or model) complex objects in physical or state space. For large simulations, modern computers are bad. This is largely why we are interested in quantum computers.\
+\
+Quantum computers still use bits, just in a different way. Bits in quantum computers are called qubits. If we have 3 qubits in a quantum computers, then this is equivalent to 8 regular bits in a modern computer. 4 qubits is 16 bits, n qubits = 2^n bits. The properly described workings of a quantum computer are 
+\f2\i hard
+\f1\i0  to wrap one\'92s head around (in other words, you need to know advanced linear algebra, partial differential equations,  information theory, quantum mechanics, and some computer science). Maybe I will put some stuff in later that is me handwaving abracadabra the way this stuff works, but for now take it for granted that quantum computers do fancy stuff with qubits and qubits are fancy because they can be a 1 and a 0 at the same time. (right?)\
+\
+Where quantum computation gets difficult (beyond just understanding it, is the cost and hassle of setting up qubits. Qubits today are the size of atoms, but they need equipment the size of large vans to run them. Because of how cold a qubit needs to be to function properly (basically 0K, or zero any temperature), and because the optics and electronics required to program is so delicate and expensive, it is unlikely that quantum computers will be household devices for a long time.\
+\
+~\
+\
+Those were the downsides of modern computers, but that is not to poopoo them. Modern computers make everything about your exceedingly affluent lifestyle possible. (Yes, you live an exceedingly affluent life because you have access to a digital book reader or money enough to pay for a hardcopy.) Modern computers are wicked fast, and their results are 
+\f2\i strictly
+\f1\i0  reliable (only as good as the Human that runs it), and they can load and store information from memory 
+\f2\i as many times as we want.
+\f1\i0 \
+\
+Quantum computers are still too young to have any 
+\f2\i immediate
+\f1\i0  big applications beyond proof-of-concept \'91computational pilot studies\'92. (This is assuming government entities have not already started using quantum compute to crack the secret encryption keys of malicious agents or nation states, a very real possibility.) As alluded before however, the primary benefit of a quantum computer is that it will be able to compute 
+\f2\i many many things at the same time
+\f1\i0 . This will be necessary for any complex simulation or optimization problem. With classical computers, as the number of things we need to keep track of increases constantly, the size of a computer we need to track those things increases 
+\f2\i fast
+\f1\i0 . Again the beauty of quantum compute is that its particular approach to representing variable quantities makes it possible to perform many calculations at once, whereas a classical computer must perform one calculation at a time.\
+\
+Another simulation example that quantum computers 
+\f2\i might
+\f1\i0  be able to help with in the future are 
+\f2\i physical simulations
+\f1\i0  (at least replacing them with quantum simulations). Sometimes computers just suck so much that we build a tiny thing of the thing we are trying to simulate, and we put that thing in a chamber that is similar to how it will be in real life, then we subject the tiny thing to the stuff it will see in real life. We record the results and boom, another valuable simulation complete. The amount of computer resource to perform such a simulation alone in these cases is so large or costly that we are better off with this analog simulation. Examples of this are, a wind tunnel (cameras watch smoke blow around a wing being simulated in reduced scale, and Humans watch that video to draw their conclusions). Another example is the northern lights simulator. Plasma physicists recognized the cost of simulation (Usim and Vsim are 
+\f2\i very
+\f1\i0  expensive), so they created a vacuum chamber with a mock planet and sun electrode to generate plasma that would fall into the planet similar to the northern lights. Scientists at NASA used this device to predict that the aurora borealis on Mars is blue and ultraviolet. They did this by filling the simulator with the gas composition of Mars known by spectral analysis from satellites. This blue ultraviolet prediction was verified by satellite, but nobody would have thought to look had not the analog plasma simulator generated the result it did. It may be that digital quantum computers just get good enough to simulate the real thing, or that they get good enough to simulate small toy models.\
+\
+When it comes down to day-to-day however, we still love our classical computers. I do. In the future, when we want to draft a text document, we will NOT bust out a quantum computer to do so. Likewise, if piece computers take hold, you will NOT use your world piece computer to type stuff and press send or print. This will, alas, still be that obnoxious classical computer that restarts on you randomly in the middle of that ultra important thing you were doing. No, a piece computer rather, will incorporate a classical computer into its construction. Your world piece computer may suggest you need to write a letter to somebody, but it will direct you to your nearest classical computer so that you may do such a thing efficiently. Perhaps your world piece computer will be the thing that ensures you write that letter 
+\f2\i effectively
+\f1\i0 .\
+\
+Whatever the case, to get back to our problem (solving global peace), quantum computation should subserve our deepest needs. As modern quantum computers go, their digital approach to optimization, simulation, and brute force mathematical problem solving will go farthest. But it is still digital. Whether you like it or not, besides on/off, happy/sad, white/black, etc, your world is analog and continuous. (My social science brain wonders if the advent of our digital age has contributed to the polarization of our cultures of late.)\
+\
+~\
+\
+Okay, so the limiting factor between both classical and quantum computers is that they are digital by design (we don\'92t yet have analog quantum computers but hopefully this book will help change that). The digital nature means that for most parts, we have to convert our entire world (analog) into digital format. If you ask me to take a system of 1000 equations and optimize for X, I likely won\'92t be able to do it. The number of mathematical operations this will take will probably take longer than the age of the universe to perform. I need something more efficient. Even a quantum computer though, with 1000 continuous variables, it may be impossible to slam through the computation given the current binary approach we use today.\
+\
+In short, I am all about keeping things the way they are, and using them in place.\
+\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\b \cf0 General stuff\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f1\b0 \cf0 \
+So let\'92s be clear about terminology, because in this book, 
+\f2\i stuff
+\f1\i0  is an extremely technical term. I do stuff; true. Stuff exists; true. I like stuff; very true. Stuff is everywhere; indubitably true.\
+\
+Here\'92s where we might get hung up, so I preempt it. In this book, 
+\f2\i stuff
+\f1\i0  means 
+\f2\i anything
+\f1\i0 . For example, when we say, \'91I think about stuff\'92, it does not mean, \'91I only think about physical objects.\'92 The way most people usually mean stuff (according to the language they use) is that stuff means both 
+\f2\i physical 
+\f1\i0 and 
+\f2\i non-physical 
+\f1\i0 things. Billiard balls and people and chairs and planets are stuff. So are colors and ideas and concepts and emotions (I feel stuff).\
+\
+Stuff is so wildly important that I am perpetually amazed by how few physicists preoccupy their time studying generalized stuff. This is, in huge part, what this entire thesis and program is about. If we can 
+\f2\i somehow
+\f1\i0  formulate a physical theory of reality that accurately describes and predicts the behavior of stuff, then we will be well on our way to solving our hard-hard problems.\
+\
+We\'92ll skip the theory stuff for now (we will spend nearly a hundred pages on it later, not including the companion textbook). For now we just care about stuff in the context of computers. Classical computers compute 
+\f2\i stuff
+\f1\i0  but stuff that is represented in the form of bits and bytes (a byte is an 8 bit word). We want to compute 
+\f2\i stuff
+\f1\i0 . Ultimately we don\'92t care about bits; we just care that the stuff is being computed. The moment it turns out that bits are too costly for this, we are done until we invent a new kind of computer. As it turns out, we are pretty much done (unless all you care about in this world is keeping your Outlook up to date, making out Excel spreadsheets board-room ready, and getting those Word documents so nicely WSIWYG that academics go belly up nuts).\
+\
+To reiterate. The reality is that representing and manipulating stuff in binary is NOT possible when it comes to truly big data and large sets of complex objects (not big data by big compute wonks, talking big data on the cosmic order). If you ask me to compute the final location of the 8-ball after first strike on a triangle of billiard balls, I could probably do that for you if I had a powerful enough computer. But if you asked me to compute the final location of a big bouncy-ball in place of the 8-ball, with jacks and a rowdy littler Terrier that nudges things around as they move, forget the computation, it will  not work.\
+\
+I\'92m saying a classical or quantum computer won\'92t help with the Terrier bouncy-ball jacks problem. This is mainly because we can\'92t properly model a Terrier. We can probably model the bouncy-ball, jacks, and billiard balls well enough, but not the conscious agent. In any case, an adequate model will be computationally intensive to the extent that is will not be possible to run a simulation with a classical or quantum computer.\
+\
+\pard\pardeftab720\partightenfactor0
+\cf0 Stuff is anything/everything conceivable. This is the definition of stuff that we will adhere to in this book.\uc0\u8232 \
+\pard\pardeftab720\qj\partightenfactor0
+\cf0 So reiterating the motivation: computers manipulate stuff. In particular, computers take stuff, create a representation of that stuff using bits of some sort, then they use those representations to calculate results from the input of those two stuffs, creating an output.\
+\
+Let\'92s go back to piece computer now. The world or universal piece computers involve taking a multitude of things \'96 stuff \'96 within a single person or community\'92s world, and building a computer which is capable of computing that stuff. Because the stuff that means the most is so incredibly hard to model with a computer \'96 even quantum computers once they have matured \'96 we will need to devise a new way to compute that stuff. We will need to take the stuff we know now, then try to convert it into a standardized form that experiments in the future can replicate and probe.\
+\
+Why piece computers?\
+\
+The reason behind fixating on pieces and stuff should begin to click in the context of the above. The conclusion of section one of this chapter should have made it clear: to solve problems with truly big data, modern computers are inadequate, thus if we are to have any hope gaining traction with those problems we must invent a special purpose computer. (This is the general piece computer.)\
+\
+First though, let us remind ourselves why, specifically, we need to invent a new computer that\'92s all about peace as a process an a bunch of pieces.\
+\
+Humans have a lot of massive problems. Solving these problems first demands unity and solidarity, which some argue is the biggest hard problem of them all. This is why we invoke the need for global peace. Now all problems involve a whole lot of stuff. In general our big problems revolve around Humans and their multitude of worlds. We have a lot of stuff, and most of it has a direct impact on our well being and our ability to gain traction on our hard problems. So whatever computer we invent will have to be able to compute all that stuff, including the worlds themselves and the people within them.\
+\
+If stuff is a general term that means anything/everything (a singular concept), we should recognize that a 
+\f2\i thing
+\f1\i0  is one unit of stuff. When I say our worlds are full of stuff, I can easily rephrase this to say that our worlds have a lot of things in them. Again, thing in this case means one thing out of anything/everything, be it a tangible object, or an intangible thought or idea.\
+\
+At this point lets steal a trick from digital computers: lets treat every singular thing as a bit. Now, there are so many things that is would not make sense to consider them all. Instead, lets only consider things that are significant to the computational task of computing stuff to solve our hardest problems. And this is what that confusing choice of words is for: a 
+\f2\i piece
+\f1\i0  is any significant thing in a world, including the world itself. A world as a whole is what we call 
+\f2\i world piece
+\f1\i0 , and this includes the Human at the center of said world.\
+\
+Doubling back to the need for solving global peace, as alluded to it is quite obvious that the challenge of global peace will be in finding the optimal arrangement for all the world pieces and all the pieces.\
+\
+Thus the special computer we are inventing to solve that massive problem of global peace is aptly called a 
+\f2\i piece computer
+\f1\i0 . The piece computer discretizes stuff into things and pieces, and runs an optimization algorithm to computer the best arrangement of the pieces at the individual, local, or global scope. Again, the whole reason for inventing the general piece computer is because there are too many pieces, variables, degrees of freedom for a modern digital computer to convert everything to bits, process them Von Neumann style, then convert those bits back into pieces and action on those pieces. Likewise, digital quantum computers are inadequate for this task, too (though they will certainly be a piece within a world/the universal piece computer.\
+\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\b \cf0 The physical cost of computation\
+\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f1\b0 \cf0 Back to bashing on modern digital computers: not only are massive problems too hard for the Von Neumann processor, but the cost of hardware is prohibitive. For a massive computational problem in a digital computer, every input of pieces that get converted into bits for processing demands the computer have enough memory for all the bits. If we are attempting to compute the dynamics of pieces embedded in our surrounding reality, we will find that there is so much data involved that we won\'92t be able to afford the memory, nor the physical space to store it. Likewise our processor. We may try to optimize our bit processing by stringing a bunch of graphics processing units to make our computation massively parallel. Even this however, is limited by the space those GPUs occupy, plus the immense amount of energy required to power and cool the digital system. Especially from the perspective of global warming and emissions, modern digital computers are simply unsuited for massive problems because hardware is too expensive\'97hardware being the physical stuff that actually makes a computer and enables it to do what it does.\
+\
+So as it stands, our piece computer has a memory and processor problem. How do we avoid the pitfalls of the modern digital computer? Let\'92s first talk about something called 
+\f2\i pointers
+\f1\i0  or 
+\f2\i references
+\f1\i0  from the world of computer science and engineering.\
+\
+Any novice programmer taking a course in C (a software language) will face something called a 
+\f2\i pointer
+\f1\i0 , and these so called pointers will cause them a lot of grief. But it need not be so painful, so I will teach you about pointers real quick so you have a leg up on the novice programmer. Lesson one: pointers / references are arguably on of the most important concepts surrounding digital computers today.\
+\
+Lesson two: pointers are important because they make it so that inside a digital computer we do not have to copy the entire memory of file or chunk of data (big chunk of bits) every time we want to do something with that file or data. Pointers allow us to move bits around, without actually moving them. This nature of the pointer achieves two things. First, the processor is freed up to do more important bit processing than moving bits all over the place like it would need to do in a world without pointers. Second, precious memory is freed up because we can refer to data instead of copying it, or having to move it to faster memory like RAM or cache.\
+\
+If it isn\'92t clear already, a pointer or a reference is just that\'97it is basically like a street sign, or a house address. \'91Downtown\'92 is downtown, but a few miles away, instead of having to copy downtown at say, the intersection, we use a much more compact sign instead, with a word that uniquely identifies the actual location. Likewise, if I sell my house to somebody, it would be absurd to try moving it 
+\f2\i to
+\f1\i0  them. Instead, we have a special type of pointer called a 
+\f2\i title
+\f1\i0  that points to the house via an address. When I make the sale, I pass the title pointer to the next owner, and this is much more efficient (and cost effective) than moving the thing. In computers then, when writing code that instructs the processor what to do with all its bits, we continuously use pointers. I may declare one pointer that points to a large file. Now, every time I want to access the file, instead of copying the file to a variable on my computer\'92s \'91workbench\'92, I use the pointer to tell my program where the file is, and from there I can access one line at a time if I wish, not the whole thing.\
+\
+Thus the overarching lesson of pointers? Whenever possible, leave things in place, and 
+\f2\i refer
+\f1\i0  or 
+\f2\i point 
+\f1\i0 instead. Whenever possible, don\'92t copy a thing.\
+\
+
+\f2\i As an interesting aside, in the 70s or 80s [?] Xerox played a role funding and steering the development of the internet we know today. Computer scientists and engineers developing the protocols of the world wide web were faced with the question of \'91do we allow copying files on the internet?\'92 Obviously, it would be absurd to copy files every time you wanted to access one. After all, this was a computer network, with an address space, and it is0 completely possible to access documents without needing to copy them (you just have to know the address\'97its pointer. As it turned out, this ideal course fell as direct conflicting interest with their large funder\'97Xerox. Recall, Xerox is kind of big on the copy machine scene. Surely those computer scientists and engineers didn\'92t build copy/paste into the early internet just because they didn\'92t want to alienate their funder\'85\
+\
+
+\f1\i0 Now veering 
+\f2\i away
+\f1\i0  from digital computers and back to pieces, me must recognize that many pieces\'97significant things\'97will live in the past, the future, or out of sight. The past piecers are what we call 
+\f2\i memories
+\f1\i0 , the future pieces are what we call 
+\f2\i dreams
+\f1\i0  or 
+\f2\i visions
+\f1\i0 , and pieces out of sight are what we call 
+\f2\i away. 
+\f1\i0 For these pieces, we have myriad different pointers to refer to them. Memories have have pictures that point back to them, or it may be an old song, or a memento. Dreams and vision may be pointed to via some sort of token that serves as a reminder, or art, or a mind-map. Pieces away may be pointed to by something like a wedding ring, or a set of keys, or a phone number, etc.\
+\
+Pointers permeate our reality.\
+\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\b \cf0 Human brain\
+\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f1\b0 \cf0 All the preceding leaves us in a position to answer the question of 
+\f2\i how
+\f1\i0  do we invent our piece computer such that we avoid the pitfalls digital and quantum computers  have when it comes to approaching massive computational problems. How do we solve the hardware problem\'97memory, processor, and power?\
+\
+If it isn\'92t already obvious, it will be now. We need to build the Human brain into the piece computer architecture.\
+\
+Stay with me! Don\'92t shut the book now! Ok quick brain lesson. Our brains are wildly efficient. Moreover, the amount of information we process in any given moment is staggering. (One figure I bumped into back studying neuroscience was that the data rate due to neuronal activity across the corpus callosum is something like zetabytes per second. Further, the brain achieves data rates on these orders by consuming tens of milliwatts. Compare this to the zetawatts [?] our internet network consumes. Big difference.)\
+\
+Even more interesting is the mind. All someone\'92s pieces (known to them, as some pieces may be unknown) have a pointer representation in the brain. When I remember a memory, my experience of the memory serves as a pointer back to my experience of the original event. When I dream of the future, or think about something I am about to do, my brain\'92s inner experience serves as a pointer to that future moment. Every piece I know about in my world has a reference or pointers\'97a 
+\f2\i representation
+\f1\i0 \'97in my headspace. Lets call these 
+\f2\i internal pointers
+\f1\i0 . What happens when I forget about a piece in my world? In this case, I need a reminder. This may be the trivial reminder, where encountering the actual piece is enough to remind me of the piece. This may also be a pointer reminder, where an 
+\f2\i external pointer
+\f1\i0  (like a memento) triggers the internal pointer of a memory that points to the past.\
+\
+Our challenge generally is to keep track of all the pieces, past, present, future, imaginary, etc. By building the Human brain into the piece computer, we incorporate an object capable of managing countless pointers, memory of staggering complexity, in the form of external pointers to trigger memories, and internal pointers that capture just the essence of some past, present, future, or imaginary experience. The object is highly efficient, and massively parallel.\
+\
+The Human brain by definition is the center of a given Human\'92s world. The remaining big question is, \'91how does the brain actually do the computing?\'92 Yes, in order to solve the piece optimization problem (to accomplish individual peace, in the case of a single Human) we need the computer\'97and the brain\'97to actually do something. Whatever it does, to keep the architecture simple, we define only a single process (called the universal piece). This process is a 
+\f2\i way
+\f1\i0  for approaching the optimization problem, and acting on results.\
+\
+Ok we have a brain to manage process, pointers and memory. Interestingly, this process manipulates a complex kind of  bit that we are calling  a piece. (In  terms that a computer engineer or scientist will understand, we have 
+\f2\i overloaded
+\f1\i0  the bit symbol, but the actual algebra defining the overloaded bits\'92 behavior  will be covered later.) \
+\
+Even more interestingly, and related to bits and pieces, is the quantum nature of the Human brain.  This is not to suggest that the brain is an actual quantum mechanical system (well, it probably is, but nobody has definitively determined [?] just how quantum the brain actually is. The brain is quantum in that is is capable of superimposing states, and in that it continuously quantizes that  surrounding environment.\
+\
+At the root of things, a piece is only a piece in the context of a conscious being. Before a brain picks through the surrounding landscape and picks out objects (quantizes), the surroundings\'97all the matter and energy\'97are really most like a fuzzy blob of stuff.  Discriminating the blob, all the surrounding stuff self-interacts, quantizing itself into things. The things are still amorphous blog, but when a conscious observer observes this thing-blob, it immediately manifests significant pieces out of nothing. We will talk in depth on this later.\
+\
+
+\f2\i On the thing-blob, from a universal perspective every thing is significant (this is a stipulation). The reason the thing-blob is a blob (and the stuff blob prior to differentiation) is that physical boundaries are only really apparent. The reason we \'91see\'92 objects is that the visible wavelength of light is just the right length that light interacts with things that surround us. The  reason we \'91feel\'92 objects is that the electrostatic force of the atoms in our skin repels the object. The reality is that our skin and that object never actually touch, and there is actually a ton of open deadspace between the atoms that make up that solid thing you\'92re looking at. If we try to use a visible light microscope to  view a cell, we can, but if we try to zoom in too much further, the image stops resolving and boundaries look fuzzy. However, if I make the wavelength of the \'91light\'92 in my microscope very-very small (an electron beam in an electron microscope for example) then I can actually see atoms! Even this though, is apparent. Again, the reality is that the electrons that give the atom its size have no size, and they are only defining the atom\'92s size in terms of quantum mechanical probabilities, a fuzzy and boundary-less  shape. An exception to all this may be Pauli's exclusion principle.\
+\
+
+\f1\i0 Tying everything together, a piece computer is built out of a Human brain, plus all the pieces within that world. Some of the pieces are just data, or a pointer. Many pieces however directly assist in the world piece optimization problem.}

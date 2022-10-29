@@ -1,0 +1,95 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;\f2\fnil\fcharset0 HelveticaNeue-Italic;
+}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab720
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\b\fs22 \cf0 2-1 Computer Riff\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f1\b0 \cf0 \
+The main course (this part) is all about computers. Before we can talk in depth about the universal piece computer and world piece computers, we set things up by riffing on computers as we know them today. In subsequent sections we will work in reverse spanning from the simple 'world piece', working out way up to the complexities of the universal piece computer. Concluding all this will be several sections on how to apply the learnings in this part.\
+\
+So, these days when people hear the noun 'computer' they almost all think only of an electronic slab of silicon, a glowing colorful window to look inside, a board with lots of little keys to select symbols from, and maybe a little thing shaped like a mouse to point at stuff. Inside the computer you know are programs, some of them the computer uses for its own things, and some of them are applications for you to use. Sometimes the computer is big and needs a desk to live on, sometimes it is smaller and needs a lap to live on, and sometimes it is tiny and needs a pocket to live in. Finally, for various reasons we can get into maybe later, a large number of people sincerely dislike everything about computers.\
+\
+That's the modern computer. This kind of computer I will from hereon refer to as an 'electronic computer in the Von Neumann load-store architecture', 'electronic computer', or \'91classical computer\'92 for short.\
+\
+There are some of us who are more in the know. We are the ones who hear 'computer' and think 'device that manipulates signals and symbols'. Without stretching too much at first, we can immediately extend the notion of electronic computer beyond consumer versions. This may be up in scale such as massive high throughput supercomputers that fill entire buildings, or it may be down in scale such as embedded computers small enough to fit need tweezers to handle. All these electronic computers are 
+\f2\i digital
+\f1\i0  meaning the symbols they manipulate are binary '1' and '0', and they use sampling to convert between analog signals and digital bits. For these computers, \
+\
+Speaking of analog, a more obscure (older mainly) form of electronic computer is the analog computer. For these computers, the signal they manipulate is the input which is modified intact to model and control systems (in most part). The symbols that analog computers manipulate are literally the symbolic quantities of math equations. Unlike a digital electronic computer that usually has a keyboard, an analog computer only has the signal input. The programming then, is the circuit and passive electrical components themselves that are 'plugged in' by different ways and the input signal travels through. The result is a computer that can solve systems of differential equations, integrate terms, and even perform automatic controls for dynamic systems (for those in the know).\
+\
+Still though computers are not some new concept.  The idea to create a machine, then program it to take inputs, process symbols, then generate outputs accordingly, it's really quite old.\
+\
+The very first electronic computers were arguably more mechanical than electronic. During world war one, Alan Turing and their team created an electro-mechanical computer made out of servos and gears to perform the intensive calculations needed to break the Nazi Enigma encryption codes, thus giving Allied powers an upper hand with intelligence in the war. This computer was digital.\
+\
+Meanwhile, at Los Alamos, physicists were furiously working on the nuclear bomb, a certain force multiplier for whichever side won the creation (destruction) race. These physicists used analog computers to run the mathematical simulations they needed to produce a viable design. Instead of having to create many slightly different versions of the atomic bomb and test them all to see which works best (impossible actually, due to cost of plutonium) they were able to simulate designs first, and only 
+\f2\i then
+\f1\i0  test the design with the best simulation results.\
+\
+In both cases, primitive electronic computers saved on resources that simply were not available at the time. Alan Turing probably could have accomplished the same results by recruiting an army of 10,000 people to run calculations by hand (though in parallel), but those people would be impossible to recruit and synchronize effectively.\
+Likewise, the scientists at Los Alamos saved countless time and avoided the not-enough-plutonium show-stopper. These cases marked the modern age of computation, and since then, any time somebody bumps into an intractable problem in engineering, mathematics, or science, a new computer is born.\
+\
+Electronic computers work overall because with electricity we can do things with waves and wiggle or switch stuff fast.\
+\
+The digital computer generally takes time from the input to output to perform all the binary arithmetic needed to manipulate symbols by storing as bits in memory first (buffers), loading those bit into a device that flips and shifts those bits on and off really fast, then outputs the result by storing into memory again. This process goes by as fast as we can turn bits on and off, and takes as long as it takes to do all the loading, flipping, and storing for the input operation. This means there is a delay (or 
+\f2\i latency
+\f1\i0 ) for anything done with a digital computer. Fortunately, we can turn bits on and off absurdly fast now (billions of times per second) for to us the delay is negligible. \
+\
+The analog computer on the other hand works by doing stuff with waves instead of bits, by exploiting a general mathematical property called 
+\f2\i linearity
+\f1\i0 . These computers take an input in form of a complex wave signal (the decomposition into sine and cosine terms are the symbols) and modifies the input wave signal producing an output in real time. (Actually, as these are lump-parameter systems, the speed of electromagnetic light is negligible, thus the processing delay in an analog computer is approximately the speed in a coaxial cable which is ~2/3 the speed of light in a vacuum.) When solving systems of equations, sometimes it takes time for the solution to 'settle', but in general the analog computer produces output instantaneously.\
+\
+So electronics give us speed and volume when it comes to manipulating signals and symbols computationally.\
+\
+Before electricity there were still computers, but they were strictly mechanical, non electronic. These computers still gave their users an advantage in time (and accuracy). Decades before electronics, there was a mon named Charles Babbage, and a woman named Ada Lovelace. Over the course of years, Babbage invented what was called the 
+\f2\i difference engine
+\f1\i0 , a programmable machine that did general arithmetic. Ada Lovelace in concert with Babbage wrote programs that told the difference engine how to operate and propagate inputs. (The difference engine took numbers on cogs as inputs, cards with holes as programs, and output numbers on cogs.) In this case, the symbols are the arithmetic operators, and the decimal numbers. Unfortunately for them, the cost of hardware and gears was too much and disincentivized investment and adoption. Nonetheless, this was the last mechanical non electronic computer before the electronic age.\
+\
+Even earlier, a non electronic computer was invented by a textile merchant named Joseph-Marie Jacquard. This computer was a programmable attachment to standard looms at the time. To use the computer, a weaver would insert a card with punched holes indicating instructions, and the loom would automatically weave the pattern. Yet again, this non electronic computer allowed textile manufacturers to produce patterned textiles between 10x and 50x faster than the traditional loom alone (and with fewer errors). This computer's inputs were thread stock, and the output an intricate pattern woven into fabric. The signals were the various tensions and positions of the apparatus in a moment, and the symbols were the punch-hole encodings of desired patterns. This was such a big deal at the time that Jacquard became filthy rich because of it.\
+\
+Finally, it won't hurt to travel back to ancient times. The Romans and Greeks had a way with innovation. These examples I still consider computers, but this position is much more debatable from a modern perspective:\
+\
+Another example of a mechanical computer was the steam powered player organ (persisting to this day, also as a player piano). The player organ  took in steam to power the pipes, and minimal control (pedal stuff) from a user. To run the computer, a program in the form of a tape with holes punched in it was fed into it. The output was a nice song and the symbols manipulated were the musical notes played. For the Romans, it was a lot easier and cleaner to ditch the musicians and have a slave run the player organ. The benefit was perfection and consistent attendance. In any case, the player organ is similar to a music box, but the little nubs that play the song are programmable (and holes, actually).\
+\
+Finally, we have to talk about the Greeks. The Greeks were responsible for creating the oldest analog computer that we know of. This is now called the Antikythera Mechanism, found in a shipwreck and recently digitally reconstructed. This computer was a mechanical contraption of gears and dials that took an input in the form of celestial body positions, producing an output predicting the future positions of those bodies (our solar system and key stars). The symbols in this example were orbits and positions.\
+\
+There are certainly many more examples that I am unaware of, but the point should be clear: in a general sense (not in the modern 'electronic computer' sense) computers have been around for a very long time.\
+\
+~\
+\
+An important trend emerged in the 20th century regarding the evolution of computers. Computers always seem to start with special purpose, then move to a general purpose form once the special purpose form has demonstrated that it can solve the hardest problems. This observation was pointed out by Richard Hamming of Bell Laboratories. What this means for us is that our daily-use general electronic computers with Word and Outlook and minesweeper only came to be due to much more difficult problems serving as the 'test subjects' for the electronic computer.\
+\
+In the context of this computer project, this means that world piece computers will be difficult to use, before they get easy. Adoption will not catch on until we can demonstrate that world piece computers 
+\f2\i work
+\f1\i0  for the most difficult cases. This theme will pop up here and there when we go over examples.\
+\
+The term 'general' must be addressed. Experts tend to call the modern electronic computer a 'general computer'. What this means is that the computer is fully programmable, and reprogrammable. Every aspect (nearly) of the computer's internal functionality is controlled by a plethora of different programmed software. We call some of these 'firmware', 'kernel', 'operating system', 'application'. (Firmware is the software that tells the hardware how to do its dirty work, and the kernel is software that let's us talk to the hardware from our operating system and applications.) With some exception to firmware, a general computer is special because every aspect of it's operation reprogrammable (assuming you know what you are doing, and also assuming you have the right permissions to reprogram). We can say that a general computer is 'software defined', and this exemplified by things like 'virtual computers (within a computer)' and 'cloud computing [?]'.\
+\
+Finally, there are many computer architectures. Outlined previously, many are analog or mechanical even. In the case of the general computer, we have what is called a load-store machine. This means that there is an input/output, there is a memory, and there is a processor that loads words from memory, performs bitwise operations on those words, then stores the result back in memory. This is known as the Von Neumann architecture and it can only process one thing at a time (though there are ways to hack this).\
+\
+Another computer architecture that is gaining importance is the 
+\f2\i quantum computer
+\f1\i0 , which compared to digital electronic computers is remarkably similar to classic analog electronic computers, and their modern digital counterparts. For one, a quantum computer manipulates symbols called 
+\f2\i state variables
+\f1\i0  instead of binary bits (although they still tend to make these state variables binary, giving them the name 
+\f2\i qubits
+\f1\i0 ). Instead of loading bits into a processor and flipping them one at a time, we instead assemble a system of variables that each represent something unique about the system. By quantum magic (system isolation in spacetime) this system becomes a 
+\f2\i superposition
+\f1\i0  of all possible states -- combinations -- of those variables. Superposition means that every possible way that the system could be found (the states) exists at the same time, like actually, physically.\
+\
+Because of super position, the first benefit of quantum computers is that we can handle more information at one time. [need to figure out the bits vs state variables capacity difference again] \
+[come back to this]\
+\
+The next benefit is that quantum computers can generate a solution instantaneously, much like analog computers. [need to go deeper on this too]\
+\
+The reason I bring up quantum computers is that like I said earlier, these computers are good at solving large systems of equations. (Reminder, in algebra the word 'solve a system' means to find the values for all unknowns such that all the equations work plugging in those values.) By the fundamental theorem of algebra, systems of equations (at least well formulated ones) have one equation per unknown that needs to be solved. In each equation, there is also one term for each unknown. If we need to use a Von Neumann architecture to solve a large system of equations, then we essentially will need to approach the solution by checking things one-by-one (for the most part, brute force at least). For large systems the number of things to check is so large that it just takes too long to brute force a solution, even with computers operating at billions of cycles per second.\
+\
+Again as mentioned in Part 1, one of the most common motivations for solving a system of equations is that we use these systems to solve optimization problems. In crude terms, an optimization problem is when we take a list of unknowns and ask, "what are the unknown values that give me the most or the least of some outcome?" If we were talking about a factory, an optimization problem could be, "given all my input materials, their quantity and their cost, what is the perfect combination of the different widgets I make that will maximize my profits?" Optimizations are actually very difficult problems, so much so that we have been relying on computers to help out for decades now.\
+\
+So if talking about global peace, we are easily talking about more unknown quantities than we have time to count aloud. The only viable option for solving optimization problems so large will be to rely on quantum computation. This is why there is so much interest in being first to market with quantum computers. As electronic computers are practical for personal day-to-day work, quantum computers will probably be much less so for that. Instead, quantum computers will operate in hubs where data happens to converge, or isolated facilities dedicated to solving hard computational problems. Maybe I'll have one in my living room to optimize my stuff, for fun (or profit?)\
+\
+The computer architecture capable of running the universal piece is neither an electronic computer -- analog or digital -- nor is it a quantum computer. However, this does not mean that the piece-based computer architecture will not make heavy uses of the two preexisting architectures. As it happens, the universal piece architecture takes computer generality to an extreme, which will talk about in depth in the next section.}

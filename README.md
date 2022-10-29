@@ -2,6 +2,39 @@
 
 This is a log for (transparently) tracking work done for the time machine for peace invention program. Entries are a stack, in reverse chronological order. Subentries are likewise a reverse chronological stack. Placestamps assume the hostname@domain:port formalism, where hostname is my operator ID blairmunroakusa, domain is my location in spacetime, and port is my contextual point of interface at said location (example, port=south-table, domain=1357Sat.15Oct22.anch.AK, thus this paragraph placestamp is `blairmunroakusa@1357Sat.15Oct22.anch.AK:south-table`).
 
+
+
+
+
+. writing actual intelligence
+blairmunroakusa@1004Sat.29Oct22.anch.AK:south
+. writing computational pieace fractal
+. writing the end of as we know it, 600 words
+blairmunroakusa@0430Sat.29Oct22.anch.AK:br
+```
+```
+blairmunroakusa@0736Fri.28Oct22.anch.AK:
+. writing cheating death, buying time, 1600 words
+blairmunroakusa@0430Fri.28Oct22.anch.AK:br
+```
+```
+blairmunroakusa@0829Thu.27Oct22.anch.AK:
+. timestay piece, 700 words
+. reviewing and editing timespace matter mind machine piece, 600 words
+blairmunroakusa@0537Thu.27Oct22.anch.AK:br
+```
+```
+blairmunroakusa@0830Wed.26Oct22.anch.AK:
+. writing timespace matter mindmachine essay, 2200 words
+blairmunroakusa@0500Wed.26Oct22.anch.AK:br
+```
+```
+blairmunroakusa@0831Tue.25Oct22.anch.AK:br
+. writing qualitative difference physics, 500 words
+. writing time stay machine, 100 words
+. writing, people | time | energy, 1400 words
+blairmunroakusa@0534Tue.25Oct22.anch.AK:br
+```
 ```
 blairmunroakusa@0800Mon.23Oct22.anch.AK:br
 . people | time | energy essay, 1400 words
