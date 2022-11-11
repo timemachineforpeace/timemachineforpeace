@@ -4,8 +4,22 @@ This is a log for (transparently) tracking work done for the time machine for pe
 
 
 
-
-
+```
+--- several days worth of writing ---
+```
+```
+. peace spies
+```
+```
+. timetents
+blairmunroakusa@0738Mon.31Oct22.anch.AK:br
+```
+```
+. writing about existential identimeld
+sunday
+```
+```
+. writing writing writing
 . writing actual intelligence
 blairmunroakusa@1004Sat.29Oct22.anch.AK:south
 . writing computational pieace fractal
