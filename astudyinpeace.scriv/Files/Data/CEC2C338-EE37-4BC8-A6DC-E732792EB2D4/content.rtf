@@ -1,0 +1,120 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fswiss\fcharset0 Helvetica-Oblique;
+\f3\fswiss\fcharset0 Helvetica-BoldOblique;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab720
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f0\fs22 \cf0 \
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f1\b \cf0 Homework Piece 1-2: Kernel development.\
+\
+
+\f2\i\b0 This homework exercise draws from Lesson Pieces 1-2.1 thru 1-2.3.\
+\pard\tx9360\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+\cf0 \ul \ulc0 \'a0	
+\f1\i0\b \ulnone \
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+\cf0 \
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f0\b0 \cf0 For this exercise, let's do some computer programming and introduce a new type of computer 
+\f2\i bit, 
+\f0\i0 called 
+\f2\i pbits
+\f0\i0 .
+\f1\b \
+\
+
+\f0\b0 Let's work on writing your world piece computer's 
+\f2\i kernel
+\f0\i0 . A kernel in an electronic computer is the most important part of the 
+\f2\i operating system
+\f0\i0 , and it is what makes it possible for you to interact with all your computer's hardware. All your hardware is different, like all your pieces are different, and they all speak different languages. The kernel is extremely important because it makes it easy for your programs to interact with everything via the commonly shared operating system.\
+\
+Your world piece computer kernel will look different than an electronic computer's kernel because these two computers have different architectures, but that's ok because we can draw the analogy anyways to help keep things simple.\
+\
+We have a few more things to do after this exercise before we are
+\f2\i  finished
+\f0\i0  writing our kernel, but for now let's start small with two tasks:\
+\
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f1\b \cf0 1) Adopt the economic peace thesis:
+\f0\b0 \
+\
+Take the economic peace thesis, 
+\f3\i\b peace is more profitable
+\f0\i0\b0 , and define what profit means to you. This could be money, energy, satisfaction, anything really. Next a little inventory of what you do in life--work, play, passion, etcetera. Write these lines of code to adopt the economic peace thesis:\
+\
+```\
+
+\f2\i - Peace is more profitable because I stand to <<insert your version of profit here>> more if maintain my aspect of the universal piece facet with my personal world piece computer.\
+\
+- This means I will profit more in life if I frame 
+\f3\b how
+\f2\b0  I <<insert what you do in life>> in terms of the universal piece--my peace process.\
+```\
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f0\i0 \cf0 \
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f1\b \cf0 2) Create your pbit and mint some\
+\
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f0\b0 \cf0 Now we need to create your piece computer's value token, or piecebit, pbit for short. I have Blair-bucks, but you can name yours whatever you want. Mint some by creating physical tokens, or simply by adding a number to a ledger that you can use to track your pbits. Whatever you mint, we will add it to our kernel in step (3). I mint Blair-bucks as I go, so that's a valid strategy, too. Create a token symbol for your pbits. Mine is 
+\f2\i bmakusa
+\f0\i0 .\
+\
+If you wish to create different types of pbits for different purposes, do so! I keep track of my different pbit by adding a tag to the end of my token, like 
+\f2\i bmakusa.iou
+\f0\i0 , or 
+\f2\i bmakusa.bonus
+\f0\i0 .\
+\
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f1\b \cf0 3) Define the value of your pbits
+\f0\b0 \
+\
+Your pbits should represent something of value. Sit down and think about how to define your pbit value, especially in terms of your economic peace thesis that you wrote for your kernel above. I sometimes use pbits to pay my different selves. Some pbits are for my time, like the 
+\f2\i bmakusa
+\f0\i0  Blair-buck. These are for IOUs with friends, family. Other pbits are to keep track of my good and bad sides' behavior. I will pay myself when I notice good behavior and redeem my own pbits by indulging in something. Combine step (2) with this step to write the following code:\
+\
+```\
+
+\f2\i PBIT_REGISTER:\
+<< token name   >>\
+<< token symbol 0 >>	 << number minted >>\
+<< token symbol 1 >> << number minted >>\
+...\
+<< token symbol n >> << number minted >>\
+```\
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f0\i0 \cf0 Right now my code looks like this:\
+```\
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f2\i \cf0 - Peace is more profitable because I stand to find more time, energy, money, contentment, satisfaction, pleasure, fulfillment if I do things in terms of universal piece.\
+\
+- This means I will profit more in life if I frame 
+\f3\b how
+\f2\b0  I work on the time machine for peace project, how I do my job, how I interact with people, how I operate my world piece computer in terms of the universal piece process.\
+\
+PBIT_REGISTER:\
+Blair-buck\
+bmakusa		100\
+bmakusa.mood	1000\
+bmakusa.wins		1000\
+```\
+\pard\pardeftab720\sl264\slmult1\sa160\partightenfactor0
+
+\f0\i0 \cf0 \
+Now that you have written this code, you need to write it to memory which is the same as adding a piece to your piece computer. The simplest way to do this is to write this code down and put it somewhere you remember and visit often. It should be in a safe place because we don't want your memory to become corrupted. Later on when we program your piece computer's universal piece, will will write in logic that will reference your kernel on a regular basis. If you happen to mint more tokens, or change anything about your thesis, you will want to update your kernel accordingly.\
+\
+Congratulations! You have written the first part of your world piece computer's kernel! This will be extremely import when it comes to interacting with all the pieces in your world--your hardware.}
