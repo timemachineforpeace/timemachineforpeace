@@ -3,7 +3,12 @@
 This is a log for (transparently) tracking work done for the time machine for peace invention program. Entries are a stack, in reverse chronological order. Subentries are likewise a reverse chronological stack. Placestamps assume the hostname@domain:port formalism, where hostname is my operator ID blairmunroakusa, domain is my location in spacetime, and port is my contextual point of interface at said location (example, port=south-table, domain=1357Sat.15Oct22.anch.AK, thus this paragraph placestamp is `blairmunroakusa@1357Sat.15Oct22.anch.AK:south-table`).
 
 
-
+```
+. added academic refs on explosive percolation
+. added completed draft for a study in peace
+. update this repo
+blairmunroakusa@0447Tue.10Jan23.anch.AK:desk
+```
 ```
 --- several days worth of writing ---
 ```
