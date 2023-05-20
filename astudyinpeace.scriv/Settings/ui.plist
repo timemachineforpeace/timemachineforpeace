@@ -101,8 +101,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {191, 883}}</string>
-		<string>{{192, 0}, {831, 883}}</string>
+		<string>{{0, 0}, {175, 883}}</string>
+		<string>{{176, 0}, {1303, 883}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>308</real>
@@ -202,8 +202,10 @@
 		</dict>
 		<key>1A0D25E9-87D8-4AA1-BA2D-224C06BDBD0E</key>
 		<dict>
+			<key>DocID</key>
+			<string>821998A7-E313-40C8-AD60-C63D891689C8</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>1A1AE5A3-9249-4461-B717-B4B527264BCC</key>
 		<dict>
@@ -696,6 +698,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>AC87D56C-9170-473F-9454-B2F5C009EEE5</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>AD95AF5C-FCC2-4149-96C4-6B8530116760</key>
 		<dict>
 			<key>DocID</key>
@@ -967,11 +974,10 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {603, 853}}</string>
-		<string>{{604, 0}, {227, 853}}</string>
+		<string>{{0, 0}, {295, 873}}</string>
 	</array>
 	<key>inspectorWidth</key>
-	<real>245</real>
+	<real>227</real>
 	<key>lastDocumentSplitType</key>
 	<integer>1</integer>
 	<key>mainDocumentEditor.dockedQRTextSettings</key>
@@ -987,7 +993,7 @@
 		<real>1.1000000000000001</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>33 33 1023 911 0 0 1512 944 </string>
+	<string>33 33 1479 911 0 0 1512 944 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>

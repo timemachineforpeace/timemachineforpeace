@@ -55,7 +55,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>pdf</CurrentFileType>
+    <CurrentFileType>txt</CurrentFileType>
     <FormatSettings>
         <Format ID="DEFAULT">
             <SectionLayouts>
@@ -75,6 +75,7 @@
     <LastUsedFormats>
         <Print>DEFAULT</Print>
         <rtfd>proof-copy</rtfd>
+        <txt>13575690-098D-4CAE-B1F7-420D55AF0923</txt>
         <rtf>modern-ms</rtf>
         <pdf>13575690-098D-4CAE-B1F7-420D55AF0923</pdf>
     </LastUsedFormats>
