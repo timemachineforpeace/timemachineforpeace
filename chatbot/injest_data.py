@@ -33,20 +33,20 @@ subprocess.call(["rm", "-r", ".vectordb"])
 embeddings = OpenAIEmbeddings()
 
 # these are all unstructured texts that DO NOT care about chunk size
-txt_loader_study = UnstructuredFileLoader('../plaintext_astudyinpeace.txt')
-txt_loader_sign1 = UnstructuredFileLoader('../marketresearchbooth_sign1.txt')
-txt_loader_sign2 = UnstructuredFileLoader('../marketresearchbooth_sign2.txt')
-txt_loader_sign3 = UnstructuredFileLoader('../marketresearchbooth_sign3.txt')
-txt_loader_sign4 = UnstructuredFileLoader('../marketresearchbooth_sign4.txt')
-txt_loader_sign5 = UnstructuredFileLoader('../marketresearchbooth_sign5.txt')
+txt_loader_study = UnstructuredFileLoader('./data/plaintext_astudyinpeace.txt')
+txt_loader_sign1 = UnstructuredFileLoader('./data/marketresearchbooth_sign1.txt')
+txt_loader_sign2 = UnstructuredFileLoader('./data/marketresearchbooth_sign2.txt')
+txt_loader_sign3 = UnstructuredFileLoader('./data/marketresearchbooth_sign3.txt')
+txt_loader_sign4 = UnstructuredFileLoader('./data/marketresearchbooth_sign4.txt')
+txt_loader_sign5 = UnstructuredFileLoader('./data/marketresearchbooth_sign5.txt')
 
 # these are all unstructured texts that DO care about chunk size
-txt_loader_nolap_doc1 = UnstructuredFileLoader('../marketresearchbooth_docx1.txt')
+txt_loader_nolap_doc1 = UnstructuredFileLoader('./data/marketresearchbooth_docx1.txt')
 
 # uncomment this if you need to instantiate the feedback vector store
 '''
 # this is a dummy loader to make feedback vector store
-feedback_loader = UnstructuredFileLoader('../blank.txt')
+feedback_loader = UnstructuredFileLoader('./data/blank.txt')
 
 # now initialize store
 feedback = []
