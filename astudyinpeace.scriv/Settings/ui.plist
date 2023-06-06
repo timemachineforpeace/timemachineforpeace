@@ -305,6 +305,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>403A90DB-A3BF-4C45-84EA-CE612CAB6709</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>4398D459-4892-4355-A42C-06B7612E6A2F</key>
 		<dict>
 			<key>DocID</key>
@@ -965,7 +970,8 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{462, 0}, {462, 853}}</string>
+		<string>{{0, 0}, {651, 853}}</string>
+		<string>{{652, 0}, {651, 853}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -986,7 +992,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 3358.9058971288532}, {612, 637.99999999917964}}</string>
+	<string>{{0, 892.18637992996696}, {578.27722772276786, 711.81362007003304}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -1000,13 +1006,13 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 3094}, {508.80000000000001, 637.59999999999991}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1</real>
+		<real>1.25</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<false/>
+	<true/>
 </dict>
 </plist>

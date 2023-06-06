@@ -69,5 +69,7 @@
     <Day dwc="0" dcc="0" dtwc="620" owc="500" occ="3524" dtcc="3742">2023-03-09</Day>
     <Day dwc="0" dcc="0" dtwc="620" owc="142" occ="888" dtcc="3742">2023-04-19</Day>
     <Day dwc="0" dcc="0" dtwc="620" owc="-2678" occ="-15570" dtcc="3742">2023-04-21</Day>
-    <Day dwc="0" dcc="0" owc="9" occ="48">2023-04-24</Day>
+    <Day dwc="0" dcc="0" dtwc="620" owc="96" occ="615" dtcc="3742">2023-04-23</Day>
+    <Day dwc="0" dcc="0" dtwc="620" owc="21" occ="120" dtcc="3742">2023-05-21</Day>
+    <Day dwc="0" dcc="0" owc="-1" occ="-1">2023-05-29</Day>
 </WritingHistory>

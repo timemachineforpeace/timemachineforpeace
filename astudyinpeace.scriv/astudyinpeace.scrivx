@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="7C1E61DD-CDB0-4771-8DE4-A607D3C05696" Version="2.0" Creator="SCRMAC-3.2.3-14868" Device="Blairs-MacBook-Pro" Author="" Modified="2023-05-20 13:41:32 -0800" ModID="D7849D5F-8268-487B-8C6F-0266D5CB6848">
+<ScrivenerProject Identifier="7C1E61DD-CDB0-4771-8DE4-A607D3C05696" Version="2.0" Creator="SCRMAC-3.2.3-14868" Device="Blairs-MacBook-Pro" Author="" Modified="2023-06-05 08:44:14 -0800" ModID="2E7C85CB-D1BA-4687-B99E-20BF3A199EAE">
     <Binder>
         <BinderItem UUID="6341E0A5-F8C2-424F-99C1-E686F8CBFB0B" Type="Text" Created="2022-12-20 14:04:55 -0900" Modified="2022-12-24 10:29:51 -0900">
             <Title>inkscapes</Title>
@@ -232,12 +232,12 @@
                         <Bookmark BinderUUID="821998A7-E313-40C8-AD60-C63D891689C8"/>
                     </Bookmarks>
                 </BinderItem>
-                <BinderItem UUID="1307A2FD-483F-4A9E-9E97-8CABE6E48085" Type="Text" Created="2022-12-23 09:26:05 -0900" Modified="2023-01-15 15:49:30 -0900">
+                <BinderItem UUID="1307A2FD-483F-4A9E-9E97-8CABE6E48085" Type="Text" Created="2022-12-23 09:26:05 -0900" Modified="2023-05-29 18:21:08 -0800">
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>529,1</TextSelection>
+                        <TextSelection>2778,133</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="821998A7-E313-40C8-AD60-C63D891689C8"/>
@@ -440,14 +440,14 @@
                         <Bookmark BinderUUID="77B2B66E-DFAD-4CB5-9021-44A89B3D8F89"/>
                     </Bookmarks>
                 </BinderItem>
-                <BinderItem UUID="752B2D81-D76C-4935-A157-269975CC8FDC" Type="Text" Created="2022-12-18 11:07:48 -0900" Modified="2022-12-30 11:09:48 -0900">
+                <BinderItem UUID="752B2D81-D76C-4935-A157-269975CC8FDC" Type="Text" Created="2022-12-18 11:07:48 -0900" Modified="2023-05-21 19:18:15 -0800">
                     <Title>! total overhaul needed</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>9133,21</TextSelection>
+                        <TextSelection>10214,0</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="821998A7-E313-40C8-AD60-C63D891689C8"/>
@@ -521,7 +521,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>16006,0</TextSelection>
+                        <TextSelection>26861,808</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="821998A7-E313-40C8-AD60-C63D891689C8"/>
@@ -1583,14 +1583,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-10-16 12:02:57 -0800" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-05-21 01:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-05-20 13:40:44 -0800"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-06 01:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-06-05 08:44:12 -0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-05-20 00:00:00 -0800">
+    <RecentWritingHistory Date="2023-06-05 00:00:00 -0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.000027,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
