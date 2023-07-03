@@ -24,7 +24,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import subprocess
 import os
 
-subprocess.call(["rm", "-r", ".vectordb"])
+#subprocess.call(["rm", "-r", ".vectordb"])
 
 # TODO: the loader shit needs to be iterable over docs in directory
 #directory = os.fsencode(directory_in_str)
@@ -42,18 +42,6 @@ txt_loader_sign5 = UnstructuredFileLoader('./data/marketresearchbooth_sign5.txt'
 
 # these are all unstructured texts that DO care about chunk size
 txt_loader_nolap_doc1 = UnstructuredFileLoader('./data/marketresearchbooth_docx1.txt')
-
-# uncomment this if you need to instantiate the feedback vector store
-'''
-# this is a dummy loader to make feedback vector store
-feedback_loader = UnstructuredFileLoader('./data/blank.txt')
-
-# now initialize store
-feedback = []
-feed = feedback + text_splitter.split_documents(feedback_loader.load())
-feedback_store = Chroma.from_documents(feed, embeddings, persist_directory=".feedbackdb/")
-feedback_store.persist()
-'''
 
 # these are all the loaders for texts that don't care about chunk size
 # ...again, this should be dynamic
@@ -73,8 +61,19 @@ loaders_nolap = [
 ]
 
 # create text splitting objects for both types of loaders
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=16)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=32)
 text_splitter_nolap = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=0)
+
+# uncomment this if you need to instantiate the feedback vector store
+
+# this is a dummy loader to make feedback vector store
+feedback_loader = UnstructuredFileLoader('./data/blank.txt')
+
+# now initialize store
+feedback = []
+feed = feedback + text_splitter.split_documents(feedback_loader.load())
+feedback_store = Chroma.from_documents(feed, embeddings, persist_directory=".feedbackdb/")
+feedback_store.persist()
 
 # split that shit
 texts = []

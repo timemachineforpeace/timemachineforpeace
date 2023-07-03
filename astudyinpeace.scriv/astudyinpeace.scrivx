@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="7C1E61DD-CDB0-4771-8DE4-A607D3C05696" Version="2.0" Creator="SCRMAC-3.2.3-14868" Device="Blairs-MacBook-Pro" Author="" Modified="2023-06-05 08:44:14 -0800" ModID="2E7C85CB-D1BA-4687-B99E-20BF3A199EAE">
+<ScrivenerProject Identifier="7C1E61DD-CDB0-4771-8DE4-A607D3C05696" Version="2.0" Creator="SCRMAC-3.2.3-14868" Device="Blairs-MacBook-Pro" Author="" Modified="2023-06-11 15:23:23 -0800" ModID="AC308C0A-B90D-4C5F-9ACD-2EE4B2A9D6D2">
     <Binder>
         <BinderItem UUID="6341E0A5-F8C2-424F-99C1-E686F8CBFB0B" Type="Text" Created="2022-12-20 14:04:55 -0900" Modified="2022-12-24 10:29:51 -0900">
             <Title>inkscapes</Title>
@@ -184,7 +184,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1,0</TextSelection>
+                        <TextSelection>0,1</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="77B2B66E-DFAD-4CB5-9021-44A89B3D8F89"/>
@@ -320,7 +320,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18173,0</TextSelection>
+                        <TextSelection>0,21051</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="821998A7-E313-40C8-AD60-C63D891689C8"/>
@@ -407,7 +407,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,16399</TextSelection>
+                        <TextSelection>5100,0</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="821998A7-E313-40C8-AD60-C63D891689C8"/>
@@ -447,7 +447,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10214,0</TextSelection>
+                        <TextSelection>10216,548</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="821998A7-E313-40C8-AD60-C63D891689C8"/>
@@ -853,7 +853,7 @@
                 <IconFileName>Statistics</IconFileName>
             </MetaData>
             <TextSettings>
-                <TextSelection>439,28</TextSelection>
+                <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
                 <BinderItem UUID="17626E58-0D87-4417-971A-55A94C68396B" Type="Text" Created="2022-10-22 08:53:07 -0800" Modified="2022-10-22 09:37:19 -0800">
@@ -921,6 +921,36 @@
                 </BinderItem>
                 <BinderItem UUID="9EBBF6DE-196F-402E-AAEC-E3D06190196F" Type="Text" Created="2022-10-22 09:26:36 -0800" Modified="2022-10-22 09:37:08 -0800">
                     <Title>plan | tactic | strategy (how)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="873C7328-BE02-448D-A8FA-21F9559890CE" Type="Folder" Created="2023-06-09 15:15:30 -0800" Modified="2023-06-09 15:15:42 -0800">
+            <Title>chatbot revisions</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>516B1014-5766-4906-A6BA-2E6929B8CB9B</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="516B1014-5766-4906-A6BA-2E6929B8CB9B" Type="Text" Created="2023-06-09 15:15:45 -0800" Modified="2023-06-09 15:15:45 -0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="156FC952-998D-4D96-9334-2555FC2CDF62" Type="Text" Created="2023-06-09 15:15:55 -0800" Modified="2023-06-09 15:47:34 -0800">
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -1583,10 +1613,10 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-10-16 12:02:57 -0800" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-06 01:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-06-05 08:44:12 -0800"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-12 01:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-06-11 15:23:21 -0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-06-05 00:00:00 -0800">
+    <RecentWritingHistory Date="2023-06-11 00:00:00 -0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>

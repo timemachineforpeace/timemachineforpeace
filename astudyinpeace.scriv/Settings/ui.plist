@@ -188,6 +188,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>156FC952-998D-4D96-9334-2555FC2CDF62</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>17626E58-0D87-4417-971A-55A94C68396B</key>
 		<dict>
 			<key>Row</key>
@@ -345,6 +350,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>4C723922-CA94-420C-A7B8-44FFC328408E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>516B1014-5766-4906-A6BA-2E6929B8CB9B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -593,6 +603,11 @@
 			<string>77B2B66E-DFAD-4CB5-9021-44A89B3D8F89</string>
 			<key>Row</key>
 			<integer>0</integer>
+		</dict>
+		<key>873C7328-BE02-448D-A8FA-21F9559890CE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
 		</dict>
 		<key>875D3FEE-7E16-4952-B015-06BD8FECAED9</key>
 		<dict>
@@ -970,8 +985,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {651, 853}}</string>
-		<string>{{652, 0}, {651, 853}}</string>
+		<string>{{316, 0}, {987, 853}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -1013,6 +1027,6 @@
 		<real>1.25</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
