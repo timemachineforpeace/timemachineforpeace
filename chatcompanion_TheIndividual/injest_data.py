@@ -1,4 +1,4 @@
-# The Individual: (inject_data.py)
+# The Individual AI Assistant: (inject_data.py)
 #
 # an LLM chat bot for facilitating solo-person conversation over custom corpus +
 # OpenAI corpus (c2021), with local corrective fine-tuning.

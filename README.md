@@ -1,3 +1,56 @@
+# README: Time Machine For Peace Social Invention Program
+
+Hi! I'm Blair. I'm glad you found this space! My hope is that you join in, make a good time of it, make the world a better place, but in a way that hasn't been done before.
+
+This program may appeal to you if:
+- You are a peace fanatic.
+- You are bored because life and things and all the stuff are too easy.
+- You are searching for a worthy cause.
+- You believe we can do better as a species.
+- You don't have anything better to do.
+- You have something to bring to the table that people don't seem to recognize.
+- ...
+- ...
+- You are at war with the world.
+- You are at war with yourself.
+- You experience inner war because you believe things are not okay the way they are.
+- You are desperate for peace.
+
+If this is you, and even if not, I encourage you to try something new, or take what you already do, and leverage your pieces in a way that empowers us to make _our_ whole, _much_ greater (not just marginally so) than the sum of our parts.
+
+This is the idea underpinning The Time Machine For Peace, The Universal Pieces, The Universal Piece Computer, World Piece computers, and World Pieces. We take what we already do, and optimize the configuration of these pieces by appealing to treating peace as an evolutionary, continuous, neverending process--not, a result.
+
+Subdirectories within this repository"
+
+# World Piece Computers
+
+The first substantial prototype for a world piece computer will be installed in the city of Anchorage, Alaska, The United States of America.
+
+#### [The Anchorage World Piece Computer (Anchorage piece computer, or AWPC)](./anchorage_wpc):
+
+# World Pieces
+
+# The Universal Piece Computer
+
+# The Universal Piece
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+OUTDATED VVVVVVV
+
+
 # TMFP general log for blairmunroakusa
 
 This is a log for (transparently) tracking work done for the time machine for peace invention program. Entries are a stack, in reverse chronological order. Subentries are likewise a reverse chronological stack. Placestamps assume the hostname@domain:port formalism, where hostname is my operator ID blairmunroakusa, domain is my location in spacetime, and port is my contextual point of interface at said location (example, port=south-table, domain=1357Sat.15Oct22.anch.AK, thus this paragraph placestamp is `blairmunroakusa@1357Sat.15Oct22.anch.AK:south-table`).

@@ -96,7 +96,7 @@
                 <PageLayout Facing="No">Yes</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>914,0</Selection>
+                <Selection>0,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -246,7 +246,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>10216,548</Selection>
+                <Selection>614,0</Selection>
             </Text>
             <Outliner>
                 <Columns>

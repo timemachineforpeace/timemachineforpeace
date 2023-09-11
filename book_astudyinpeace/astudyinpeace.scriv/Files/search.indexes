@@ -367,6 +367,20 @@ Initialize and maintain a global peace system devoted to treating peace as a pro
 
 Objectives:</Text>
         </Document>
+        <Document ID="B0ADA43E-6798-4A65-B07C-B47D620E7218">
+            <Text>Conversation Piece.
+
+
+The most I can do is start a conversation. I hope it turns into movement toward Human unity and solidarity.
+Let's join in movement. Let's rewire our brains to be more peaceful.
+
+This book is dedicated to victims of, those currently suffering from, and those lost to generalized war.
+
+</Text>
+        </Document>
+        <Document ID="5A1F4587-6F29-46CE-B394-BE14553B62EA">
+            <Title>Why does it matter socially?</Title>
+        </Document>
         <Document ID="BC764ADE-DA28-4F66-A35B-3781190CF699">
             <Title>Quotes</Title>
             <Text>The only rule rule we need is never giving up,
@@ -375,52 +389,6 @@ The only faith we have is faith in us. - P.TM
 Clark's corrolary:
 
 Any sufficiently advanced neural network on silicon is indistinguishable from actual intelligence, but it still just that--artificial.</Text>
-        </Document>
-        <Document ID="A343B22A-4DA5-4599-8C6B-88CC6EF927A5">
-            <Text>Near-Future Piece: 69 PCE - Timespace.
-
-The emphasis of physics these days is to create a new branch of the discipline, one to explain the subjective reality around us. This quickly brought us to the realization that time is more fundamental than any of the spatial dimensions, where the four dimensions of spacetime from classical objective physics are those considered spatial dimensions, including the dimension of time. (Although time is a privileged spatial dimension because from our perspective we cannot reverse time.)
-Timespace is what you get when you think of spacetime strictly in terms of cycles. Around 200 years pre-PCE, a Human by the name of Joseph Fourier invented what was probably the most profound devices in mathematics to this day. This was naturally chosen to be called the Fourier Transform (pronounced 4-E-A transform). The Fourier transform allows us to think of the world in terms of cycles, or repetition.
-The transform works like so: I can take any well-behaved function that describes an outcome in terms of some input, and I can transform that function into a collection of wiggles. There wiggles are cycles or repetitions, being what we call the frequency content of the function that describes the behavior of whatever I'm interested in.
-A classic example of what I mean by this is the music heard by the ear from a song. A song is a collection of instruments and beats and notes, all blended together into a single sound wave. If you were to visualize what this wave looked like traveling through the air toward your ear, you would see only a single complicated waveform, or wiggle. You would not be able to tell by looking at this single waveform what instruments and notes are playing without listening to the waveform yourself. But, if I take that waveform and apply this mathematical Fourier transform to it, then the output will be the collection of all the individual frequencies playing. 
-After taking the Fourier transform, you would see distinct high frequency content that you could identify as perhaps a violin. You could see other frequencies that you could identify as bells, or singing. You would see low frequency that is the bass, or even lower, the slow beat of a drum. With knowledge of all these different frequencies from that single waveform, you can then pick and choose which you would like to study. You could erase the low frequency leaving only the violin and bells. You could make the low frequency bass stronger, or louder. You can even add frequencies. Then you can apply the inverse Fourier transform to smash everything back together into a single song, and listen to the changes.
-This is a primary example of something called filtering. Filtering lets us take a complicated and singular world that surrounds us, and break it into manageable chunks. By applying a Fourier transform, we are effectively speaking the language of whatever it is we are breaking into chunks. This approach to making sense of our surroundings is so wildly successful, that without it, we would not have what we have today in terms of technology.
-So. Timespace and spacetime. As it turned out, every single type of output from a function can be considered a quality. Interestingly, every single quality happens to be embedded within the fundamental spatial dimensions of spacetime. In other words, it is impossible to think objectively about a quality without it being tied somehow to spacetime. We call these correlates.
-For example, if you think about the difference between red and blue in your head, you might say that this is beyond the realm of spacetime. You would be wrong however, because by virtue of thinking about red and blue, you must switch between thinking about the two in a cycle of comparison. I can relate this to spacetime by watching the difference in brain activity through time and space. As long as I have information about which color you are thinking of in the moment—red, blue, or both—I can create a function that correlates your comparison process in terms of spacetime. That is, even if it is just in your head, as long as I know what red looks like in this context, I can apply a Fourier transform to your brain activity to tell you at exactly what frequencies you tend to think about red.
-The point is that the entire world of subjective qualities can map to the domain of cycles and repetitions via a Fourier transform. We call this domain timespace. It was called this to emphasize that cycles and repetitions are the tick-tocks of how stuff evolves. In timespace we can define the passage of time as 'change X per cycle Y'. This is much different than spacetime's time, where the passage of time is just 'stuff moves around per second'.
-We can take all the little cycles and add them together to form chains and larger cycles. My quality of position in spacetime may in frequency domain look like I am pacing in a circle at my desk. However, taking these smaller qualities as a whole and looking over much larger and longer regions in spacetime, we might see that these pacing cycles are part of a much larger cycle called 'going to work each day'.
-The interesting takehome here is that every cycle in timespace and the corresponding movement of stuff through spacetime, no matter how large or complex, has a qualitative signature. That is, an experience, where the feel of which depends on surrounding context, and whatever object is serving as the observer.
-In my going to work cycle, there is this one chunk of broken concrete experiences this cycle too, because every time I seem to step on it just enough to trip me a little. Every time I step on it, this chunk feels my gravitational pull as I near it, and when close enough, it feels my atoms repel against it and push hard when I step. The concrete doesn't have a brain, so all it has is the simple context of the ground beneath it pushing back. Thus, each time I trip on this concrete, the chunk experiences deformation, every day at around the same time. Me however, I have a brain and a lifetime of experience imprinted on my neural network, so every time I find myself stepping on the chunk walking into the office, my experience is one of disappointment to be going to work, then irritation when I trip on the chunk. All of this is just a single cycle. If we were to think of such a cycle in terms of a physical object by defining the duration of one cycle as a single moment, my body would look like a smear through spacetime. Variations in my cycle over the course of many cycles would look like a smear, blurring in different minute ways that correspond to deviations in that cycle.
-From the field of plasma physics, we can describe a complex cycle in similar terms as what we call adiabatic invariance. Adiabatic invariance is just when the essence of an object's cycle changes very slowly for each go around. When a cycle evolves, we often speak in terms of the residue that it leaves behind, or the nature of the change. The residue is the fundamental unit of passing time in timespace, and we make sense of a cycle's motion in terms that are relative to other cycles. 
-The reason any of this became important is because any world piece computer—and especially the universal piece computer—needs to have a clock to coordinate synchronization of our limited people, time, and energy. A piece computer needs a way to tick and tock to synchronize, and it needs a way to express what happens between each tick and tock.
-Timespace provides the resolution needed to accomplish this. The problem with the spacetime domain is that it only has one unit per dimension, four—which in our case is the second and the meter (or foot). This means that we have one unit to express our most important commodity which is our objective time, and this is extremely low fidelity.
-The great thing about timespace is that now we can have all the units we need, and one dimension per unit. Each dimension here is a cycle that corresponds to a subjective quality, and each dimension can be linked to the other dimensions that are relevant, relating to one another via a web of propagating residues.
-To differentiate from objective time, we explicitly call this subjective time, mainly to highlight the fact that each timeloop has a corresponding quality. Ultimately we can take these cycles and relate them back to objective time, either by taking the inverse Fourier transform of each quality involved, or by counting objective time in terms of how long it takes a cycle to complete.
-One of the primary tasks of the universal piece computer is to treat each world piece computer as its own lattice of linked subjective timeloops—all the day-to-day cycles and activities in a world—and link them together with a larger timeloop one level up.
-We call the map of linked timeloops, a timepiece. The timepiece itself is a world piece computer's clock, ultimately linking up to the universal timepiece at the global level of the universal piece computer. This subjective time architecture enables us to employ simple artificial intelligence bots that crawl the universal timepiece searching for new patterns within all the nooks and crannies of the subjective timeloops to help with the overall process of optimizing world synchronization.
-The universal piece (the global peace process) happens to ride on top of the universal timepiece. Because the operations within the peace process must be aligned just right (in the same way bits need to be aligned in the modern electronic computer), and because the alternating tick tock of peace state updates and changes must align with other loops, the timepiece is a fundamental piece within every functioning world piece computer.
-Ultimately, the scope of interest reaches peace as the product, be this at the core state of individual inner peace, or or inner peace taken as a sum globally producing the state of global peace. This is where we translate all subjective timeloops back into objective time to take a measure of or a change to the peace state in a given moment. The passage of inner peace or global peace states from moment to moment is what we call piecetime. [[fucking stupid shitty sentence - fix all ]]
-Timespace is interesting because the timeloops themselves are the singular objects. In other  words, timeloops are points in timespace. To differentiate these loops from spacetime objects, we choose to call timeloops bodies. Even spacetime objects that are not moving has a trivial timeloop, which is just the body with a timespace smear equal its object. Even trivial timeloops have a corresponding quality, which is simply the quality of the object being at a stationary position, or location. We believe there is probably a fundamental comparison rate that may set the 'common time' for all comparison operations within timespace.
-These days, we tend to call bodies in timespace pieces. Every piece has a corresponding spacetime object, it has a quality, and it has an image.
-In objective physics, objects are made up of particles that cannot overlap, and they interact by exchanging force via different particles called light that can overlap. These are called Fermions for objects, and bosons for light or image. All the motion of objects can be explained in terms of the shape of spacetime and the light that bounces around filling all space. Each object in spacetime likewise has an experience that is defined as the image it 'sees' from the light generated by other interacting objects. In most cases that we are familiar with in our day-to-day living, these light particles are called photons.
-In subjective physics, bodies are likewise made out of particles that cannot overlap. These particles are pieces. For each piece, or timeloop, one and only one may exist. If a second piece of the same quality exists, then it is occupying a different point in timespace, with the difference generally being the quality of 'different place' in spacetime. (For example, one person thinking 'apple' in spacetime cannot correspond to two apple timeloop bodies in timespace. However, two people thinking 'apple' will have two identical timeloop bodies, besides the quality of both people occupying different space.)
-The 'light' of timespace acts the same way as light in spacetime. Pieces are constantly exchanging what we call qualitons, or the analogue to photons. Depending on the composition of two pieces and their position in timespace, pieces exchange qualitons for which any number possible can overlap. Although the mechanisms are poorly understood at the moment, qualitons appear to mediate piece behavior, just like photons mediate spacetime objects via the electromagnetic force.
-(There are also the strong and weak nuclear forces of spacetime with their own Fermions and Bosons. These forces likewise have analogs in timespace, but that is beyond the scope of this piece.)
-At this point it is crucial to note that spacetime is a fundamental object, but it is not the fundamental space. However, every piece in timespace is believed to contain as one of its constituent qualities, an object in spacetime. We do not definitely know if it is possible to have an isolated piece with no object. Many people now believe in Platonic forms, which is exactly such expression, where concepts such as 'triangle' or 'circle' exist in pure form without a correlating spacetime object, but that is a different debate.
-This distinction is important because it appears that the passage of subjective time in timespace is directional, and probably for the same reason that spacetime objective time is directional. It seems that pieces in timespace are either falling through timespace with a velocity, or they are still and timespace is flowing around like a headwind. Not that this matters, but it might. As pieces interact with each other, they struggle to stay oriented properly with the wind of time, facing forward with their spacetime objects, and they accumulate and copy pieces as time goes on, becoming larger and larger with more and more experience, or qualiton capture. This is important because it appears that Human individuals are the tallest of these growing mountainous bodies, and all the extra qualitons they emit both deliberately and reflexively appear to be the causal mediators of all non trivial transformation.
-As per the actual intelligence essay, the reason this is important is that massive individual timespace bodies appear to gravitate toward one another according to both similarity and difference. The outcome of such a gravitational interaction however, depends on this similarity-difference valence. Qualitative difference physicists at currently working out how to extend the spacetime geometry conception of gravity to subjective physics and the timespace model.
-We believe nonetheless, that the reason for any transformation in timespace is due to actual intelligence changing the shape of timespace thus changing the straight-line acceleration of objects by a similar equivalence relation like form general relativity. This may be something as simple as a statement of qualitative equivalence, quality being the analog to mass in spacetime. This is pretty speculative though, so we leave it to rest for most practical concerns.
-One important point to remember when thinking about the universal piece computer, is that every piece—or timespace body—is an entire world of its own. These worlds again, do not overlap in timespace, though they are allowed to overlap in spacetime. That is, in our spatial objective reality, pieces can overlap and nest.
-This is especially important when considering world piece computers. The amount of overlapping and nesting of world piece computers and all their constituent pieces is quite mind boggling. One of the primary reasons subjective physics has taken off like it has is for its ability to conceptualize worlds in terms of pieces that cannot overlap in timespace. In terms of subjective time, there is very little room for conceptual overlap, again largely because each piece has its own dimension of time. Instead of a mess of worlds all tangled up, we now have a formalism that allows us to treat pieces as if they were part of a puzzle.
-Probably the most practical way this serves the universal piece computer harks back to the topic of universal language. Now we can clearly draw a line between overlapping worlds and apply a universal communication protocol to bridge that line between them. This is what the universal piece process does, primarily facilitated by the universal timepiece, managing the connections between all these Human worlds.
-This is admittedly super abstract, and painfully hard to follow at first treatment, which is why most people who dive deeper than what we just covered are trained theoretical piece physicists. Qualitative difference physics is the kernel of a world piece computer operating system, while the timespace formalism has more to do with the first principles that explain the actual piece computer's hardwear functionality on the fundamental level. Having a solid physical model to understand the nature of Human subjective reality has turned out to be vastly more lucrative than the objective physics that ushered in the advent of the internet, thus paving the way to global peace.
-One thing is irrefutable. Inventing a better understanding of time has been invaluable for the process of establishing, measuring, and improving our state of inner and global peace. Timespace as a model of subjective reality is essential for keeping reliable piecetime.</Text>
-            <Comments>Joseph Fourier: https://en.wikipedia.org/wiki/Joseph_Fourier
-Fourier transform: https://en.wikipedia.org/wiki/Fourier_transform
-function: https://en.wikipedia.org/wiki/Function_(mathematics)</Comments>
-        </Document>
-        <Document ID="5A1F4587-6F29-46CE-B394-BE14553B62EA">
-            <Title>Why does it matter socially?</Title>
         </Document>
         <Document ID="ED82BAF4-96BB-477A-8DD2-CE7D9D83AEE9">
             <Title>economic | political | social (how)</Title>
@@ -1386,13 +1354,8 @@ The major exception to this clause, is if the versioned text contains libel, inc
             <Title>COVER</Title>
             <Text>#</Text>
         </Document>
-        <Document ID="2FE932A1-543D-4072-966B-41923EA0D925">
-            <Text>Near-Future Piece: 17 PCE - The Overwatch.
-
-The fireplace across the room was dying out. The window to the left, a cold moon glowing through. The door to the 
-
-&lt;&lt;redacted&gt;&gt;
-</Text>
+        <Document ID="1E8687D4-689B-4E62-8099-812303B4309E">
+            <Title>Why does it matter politically?</Title>
         </Document>
         <Document ID="6AC87B3E-1640-4AFD-8FA6-DEDCD28AC8A1">
             <Text>Opening Pieces.
@@ -1539,14 +1502,13 @@ This concept of emergence is best thought of 'the resulting whole that is greate
 cellular automaton: https://en.wikipedia.org/wiki/Cellular_automaton
 emergence: https://en.wikipedia.org/wiki/Emergence</Comments>
         </Document>
-        <Document ID="1A0D25E9-87D8-4AA1-BA2D-224C06BDBD0E">
-            <Title>The Gamble</Title>
-            <Text>The gamble.
+        <Document ID="2FE932A1-543D-4072-966B-41923EA0D925">
+            <Text>Near-Future Piece: 17 PCE - The Overwatch.
 
-This project may be appropriated at any time by non peaceful entities or groups, especially under the guise of pursuing different versions of peace. This is ok, and welcome. However, the big gamble is that implementing world piece computers will be much harder for the morally and technically uninitiated. In other words, the gamble is that people who do not hold these values—or they hold very few of them—will be relatively unsuccessful at influencing the universal piece computer as a whole. If any antitypical world piece computer is successful, then this means that by definition the computers have successfully integrated into the universal piece computer.
-The role of the universal piece computer in a strict practical sense is to unify/arrange/integrate worlds in ever increasingly better ways. Having the universal piece computer as an intermediary will therefore be better than having a group of people who share antitypical values with no computer alone.
-To protect against malicious appropriation however, the time machine for peace universal and world piece computers have corresponding trademarked symbols, which shall serve as a mark of confidence and good behavior for anybody wishing to contribute their intellectual or personal property to the universal. Likewise, critical literary and communication pieces will employ a cryptographic blockhashing scheme as demonstrated in this book. This goes the same for verifying Individual authenticity of online posts to social media, etc.
-The origin hash for all future hash chains shall be the SHA256 hash from the contents of this book, excluding cover and dustsleeve materials.</Text>
+The fireplace across the room was dying out. The window to the left, a cold moon glowing through. The door to the 
+
+&lt;&lt;redacted&gt;&gt;
+</Text>
         </Document>
         <Document ID="6E90FB9F-2EC4-49F8-82D5-20F162BB3320">
             <Text>TODO PIECES.
@@ -1563,8 +1525,50 @@ The origin hash for all future hash chains shall be the SHA256 hash from the con
 
 . integrate THI as wpc constitution</Text>
         </Document>
+        <Document ID="D80AC75D-6B7A-49EA-AB3A-3C56BA1F4E70">
+            <Title>QUESTIONS</Title>
+        </Document>
         <Document ID="C953D111-9CFC-4992-A003-7296DAA531DE">
             <Title>STORY ARCS</Title>
+        </Document>
+        <Document ID="0478139F-7B70-4129-9E58-09D756BFF380">
+            <Text>broken oar
+cyno camper</Text>
+        </Document>
+        <Document ID="D2E36D59-42DF-4BF7-8D06-BB4D5CBEBEAB">
+            <Title>caring sharing</Title>
+        </Document>
+        <Document ID="EA456216-C452-4BB6-BF74-37347D2F95B3">
+            <Title>how (does the piece computer help)?</Title>
+        </Document>
+        <Document ID="1A0D25E9-87D8-4AA1-BA2D-224C06BDBD0E">
+            <Title>The Gamble</Title>
+            <Text>The gamble.
+
+This project may be appropriated at any time by non peaceful entities or groups, especially under the guise of pursuing different versions of peace. This is ok, and welcome. However, the big gamble is that implementing world piece computers will be much harder for the morally and technically uninitiated. In other words, the gamble is that people who do not hold these values—or they hold very few of them—will be relatively unsuccessful at influencing the universal piece computer as a whole. If any antitypical world piece computer is successful, then this means that by definition the computers have successfully integrated into the universal piece computer.
+The role of the universal piece computer in a strict practical sense is to unify/arrange/integrate worlds in ever increasingly better ways. Having the universal piece computer as an intermediary will therefore be better than having a group of people who share antitypical values with no computer alone.
+To protect against malicious appropriation however, the time machine for peace universal and world piece computers have corresponding trademarked symbols, which shall serve as a mark of confidence and good behavior for anybody wishing to contribute their intellectual or personal property to the universal. Likewise, critical literary and communication pieces will employ a cryptographic blockhashing scheme as demonstrated in this book. This goes the same for verifying Individual authenticity of online posts to social media, etc.
+The origin hash for all future hash chains shall be the SHA256 hash from the contents of this book, excluding cover and dustsleeve materials.</Text>
+        </Document>
+        <Document ID="516B1014-5766-4906-A6BA-2E6929B8CB9B">
+            <Text>
+
+
+
+
+
+galactic clusters with filemental tensile strands to hold them together despite expanding space
+
+
+light dark duality
+
+darkmatter is anti lightmatter lightmatter is anti dark matter [?]
+
+visible matter is light matter
+
+so basically, in the empty darkspace between matter, there is dark matter, but this dark matter may very well be visible matter within a lightspace
+
+so like, instead of black holes in dark space, there would be light expanses in light space...in light space, visible matter would revolve around the light expanses, whereas in dark space, visible matter revolves around black holes</Text>
         </Document>
         <Document ID="B6A77660-3170-4179-BE72-2D83B431B36C">
             <Text>2-2.1 A reflection on computers
@@ -1684,6 +1688,27 @@ On the thing-blob, from a universal perspective every thing is significant (this
 
 Tying everything together, a piece computer is built out of a Human brain, plus all the pieces within that world, and the universal piece process. Some of the pieces are just data, or a pointer. Many pieces however directly assist in the world piece optimization problem.</Text>
         </Document>
+        <Document ID="A16401F8-E409-43DC-8580-83245B14ED27">
+            <Text>2-2 
+Computer Architecture
+
+This is a big chapter. Here we discuss the overall shape and quality that characterizes the universal piece computer and world piece computers. If the last section helped make you more receptive to the scope and subtleties that surround your preconceptions of 'computer', then you should have an easier time understanding this section. The architecture described here is extremely different, essentially foreign to what you know about computers in a general or technical sense. It's okay if you don't understand at first, it took me a while to get there too.
+
+This computer architecture must be thought of as all the world piece elements forming a whole, being the universal piece computer. The architecture is fractal, and applies equally to both individual elements and the whole at large. In fact, an accurate technical name for the architecture of the universal piece as a whole may very well be a computational piece fractal.
+
+In the first section we'll start the lesson by talking about the generality of stuff in the context of computers. We will then work to understand why this generality is needed, and what it looks like in practice. We will talk about the critical role of the Human brain. This will involve reflecting on quantum computation, Von Neumann computation, resolving with discussion about memory, pointer variables, and time.
+
+The next section will involve applying the above toward describing the structured relationship between the universal piece computer, world piece computers, and world pieces. This will involve defining the sole hierarchy between components, and describing how world piece computers nest and connect laterally. We will 
+
+discover how the universal piece can be singular but in many places at once. We will also discover how a world piece computer connected to a world piece with fewer world pieces looks equivalent to the universal piece computer (is, in fact). We finish this section by addressing the primary difference between the universal piece computer and world piece computers: the Human brain.
+
+Finally we put the pieces of the architecture together. How does the architecture let us meld everything together? How do we generalize this architecture to be agnostic to which computer type we are referring to -- universal or world? We explore a little about the role of different embedded computer architectures present within, and talk about how the peace-based architecture may be seen as a hybrid of the quantum and Von Neumann architectures. We conclude by reviewing three simple yet essential components that define the universal piece computer and world piece computers in general.
+
+From here out, instead of saying 'the universal piece computer and world piece computers' every time, I will refer to the pair simply as 'piece computer'. Piece and peace are disambiguated by context, by articles 'a' (world) piece computer
+
+This section is where things start to get a little wild, so please approach what follows with an open mind.
+</Text>
+        </Document>
         <Document ID="60AFD866-728C-4194-929D-B41DBCBB12F3">
             <Text>Motivational Piece: The grand unification experiment.
 
@@ -1728,43 +1753,6 @@ Knowledge should live on one tree. The knowledge tree should have only one trunk
         </Document>
         <Document ID="17626E58-0D87-4417-971A-55A94C68396B">
             <Title>education | language | consilience (how)</Title>
-        </Document>
-        <Document ID="D2E36D59-42DF-4BF7-8D06-BB4D5CBEBEAB">
-            <Title>caring sharing</Title>
-        </Document>
-        <Document ID="D80AC75D-6B7A-49EA-AB3A-3C56BA1F4E70">
-            <Title>QUESTIONS</Title>
-        </Document>
-        <Document ID="1E8687D4-689B-4E62-8099-812303B4309E">
-            <Title>Why does it matter politically?</Title>
-        </Document>
-        <Document ID="EA456216-C452-4BB6-BF74-37347D2F95B3">
-            <Title>how (does the piece computer help)?</Title>
-        </Document>
-        <Document ID="A16401F8-E409-43DC-8580-83245B14ED27">
-            <Text>2-2 
-Computer Architecture
-
-This is a big chapter. Here we discuss the overall shape and quality that characterizes the universal piece computer and world piece computers. If the last section helped make you more receptive to the scope and subtleties that surround your preconceptions of 'computer', then you should have an easier time understanding this section. The architecture described here is extremely different, essentially foreign to what you know about computers in a general or technical sense. It's okay if you don't understand at first, it took me a while to get there too.
-
-This computer architecture must be thought of as all the world piece elements forming a whole, being the universal piece computer. The architecture is fractal, and applies equally to both individual elements and the whole at large. In fact, an accurate technical name for the architecture of the universal piece as a whole may very well be a computational piece fractal.
-
-In the first section we'll start the lesson by talking about the generality of stuff in the context of computers. We will then work to understand why this generality is needed, and what it looks like in practice. We will talk about the critical role of the Human brain. This will involve reflecting on quantum computation, Von Neumann computation, resolving with discussion about memory, pointer variables, and time.
-
-The next section will involve applying the above toward describing the structured relationship between the universal piece computer, world piece computers, and world pieces. This will involve defining the sole hierarchy between components, and describing how world piece computers nest and connect laterally. We will 
-
-discover how the universal piece can be singular but in many places at once. We will also discover how a world piece computer connected to a world piece with fewer world pieces looks equivalent to the universal piece computer (is, in fact). We finish this section by addressing the primary difference between the universal piece computer and world piece computers: the Human brain.
-
-Finally we put the pieces of the architecture together. How does the architecture let us meld everything together? How do we generalize this architecture to be agnostic to which computer type we are referring to -- universal or world? We explore a little about the role of different embedded computer architectures present within, and talk about how the peace-based architecture may be seen as a hybrid of the quantum and Von Neumann architectures. We conclude by reviewing three simple yet essential components that define the universal piece computer and world piece computers in general.
-
-From here out, instead of saying 'the universal piece computer and world piece computers' every time, I will refer to the pair simply as 'piece computer'. Piece and peace are disambiguated by context, by articles 'a' (world) piece computer
-
-This section is where things start to get a little wild, so please approach what follows with an open mind.
-</Text>
-        </Document>
-        <Document ID="0478139F-7B70-4129-9E58-09D756BFF380">
-            <Text>broken oar
-cyno camper</Text>
         </Document>
         <Document ID="6E5EBAD4-79CF-452D-B4D8-F42948591133">
             <Title>individual | local | global (what)</Title>
@@ -2300,6 +2288,9 @@ Peace is more an evolving continuous iterative process than it is a result or pr
 
 And if you read further, let's get it.</Text>
         </Document>
+        <Document ID="E98FC144-2F17-4F62-A646-CB878D3F180C">
+            <Title>Why is this necessary?</Title>
+        </Document>
         <Document ID="9CB06FCB-F4D1-40B2-ACD0-FF61C6A15588">
             <Text>The computer.
 
@@ -2349,9 +2340,6 @@ Lesson Piece 3-x: Networking.
 3-x.y: Communication.
 
 Impetus: need to actually define the universal piece</Text>
-        </Document>
-        <Document ID="E98FC144-2F17-4F62-A646-CB878D3F180C">
-            <Title>Why is this necessary?</Title>
         </Document>
         <Document ID="F10F64F5-FD29-4706-9D30-BBE6C0C1B8D1">
             <Title>hardware | operating system | software (how)</Title>
@@ -3027,6 +3015,32 @@ Global peace is an aggregation of world piece computer inner peace measures. Glo
 Adjusting the connections and relationship between those four world piece computers might cause two worlds to break contact. If those the operators of those two individuals were in love, then the subjective inner peace measures would be much lower, thus the new world piece computer configuration results in a suboptimal measure of global peace.
 It will become necessary for piece computer operators to not only define their subjective inner piece characteristics, but also to define a threshold—or set of characteristic values—whereat an operator can declare a state of at-peace or not-at-peace (or at-war). This way, we will be able to differentiate between configuration changes that are mutually beneficial, or beneficial to some but at the expense of others.</Text>
         </Document>
+        <Document ID="AC87D56C-9170-473F-9454-B2F5C009EEE5">
+            <Text>COMPETITOR COMPARISON PIECE (INTERLOCK DIFFERENTIATING FEATURES)
+
+PRIMARY DIFFERENTIATION:
+
+Interlock is the only web3 company targeted primarily at protecting users from phishing sites with a token incentivized crowdsourcing approach to refining threat detection. Most web3 cybersecurity companies focus on the exploits themselves (such as this or that malicious software or virus). The reality however is that the real threat is the phishing that goes into delivering the exploit. Usually one way or another, an attacker has to trick a human being into accepting their cyberweapon, or giving up their secret wallet credentials. Interlock acknowledges this and includes end-users in their own threat protection process.
+
+COMPETITORS:
+
+Polyswarm
+This is the only web3 cybersecurity company that employs a token incentivization strategy to crowdsource threat detection like Interlock does. Polyswarm focuses primarily on applying their technology to analyze malicious exploits themselves, but without the primary emphasis on the general phishing attack. Likewise, the crowdsourced helpers are not actually the end-users. In our case, our primary intent is to prevent phishing attacks, and our crowdsourcing comes from the crowd of end-users themselves whom we are trying to protect. For polyswarm, the crowdsourced entities are more like third parties.
+
+Wallet Guard
+This company compares directly against Interlock's malicious URL detection technology, our main intent to address phishing attacks, and our particular implementation as a browser extension product. Wallet Guard does not however, have a crowdsourcing token incentivization program. This means that their heuristics will inevitably lack in refinement because they have no Human component in their threat analysis technology. Our technology (in coming time) includes our end-users in our technology's refinement. Wallet Guard may introduce their own feedback mechanisms that harness their end-users, but they will not have a utility token to incentivize participation.
+
+Guardio
+This company competes directly with Interlock's Threatslayer browser extension, employing many of the technologies and techniques Interlock's threat detection does. Like Wallet Guard however, they lack a crowdsourcing token incentivization program. One could also argue that Guardio is not directly aligned with the ethos of the web3 space. Guardio is more aligned with the web2 transition to revolving primarily around cloud computing and related threat concerns. Like Polyswarm, Guardio is not primarily interested in prioritizing phishing attacks like Interlock does.
+
+Cyvers
+This web3 company seeks to prevent blockchain-based hacks and attacks by monitoring blockchain transaction activity with artificial intelligence. Interlock again focuses on preventing hacks and attacks by addressing the phishing threat first. Our AI/ML is trained to evaluate threats that are off the blockchain but pose a threat to assets held on-chain. Cyvers likewise has no token crowdsourcing incentivization mechanism.
+
+Frontal
+This web3 company is a general cybersecurity firm devoted to securing blockchain-related systems and assets. They have no token incentivization program, and they are more geared toward serving enterprise blockchain systems. Interlock is more about the end-users, and sell to enterprises. Frontal could easily become a customer of Interlock's, purchasing our threat intelligence for a premium. At first glance we are competitors, but we serve different market segments.
+
+</Text>
+        </Document>
         <Document ID="751D69F4-ED47-491D-94B4-E69633B1731A">
             <Title>once upon a time</Title>
             <Text>Once upon a time...
@@ -3071,6 +3085,9 @@ Because compute nodes for the universal piece computer will always be controlled
 The universal piece running within a world piece computer is a little different than running globally as a whole on the universal piece computer. In a world, the process of creating, returning to, and maintaining good and pleasant times is still the (same) universal piece, but the specific objects that the universal piece is solving the optimization problem for are both other world pieces (those not controlled by this Human world) and for simple non world pieces on their own. Pieces within a world piece may be any significant thing within that world. If you have a rain jacket in your backpack and a storm falls, your world piece computer will recognize that your rain jacket piece should be reconfigured so to be positioned on your torso. This will get the operator back to the pleasant experience of 'warm and dry'.
 
 That should do it for now. The universal piece computer is comprised of participating world piece computers all contributing to the singular process of the universal piece. Each world piece computer runs the universal piece for its own world's pieces. World pieces that do not participate in running the universal piece are still included in global peace configuration solutions. And gluing all this together? To unify all of the above we naturally fall back to the modern communications infrastructure brought to us in large part by the innovating forces of capitalism!</Text>
+        </Document>
+        <Document ID="47812109-F839-4431-9687-667AE10F40A7">
+            <Title>Why does it matter economically?</Title>
         </Document>
         <Document ID="07161647-3B22-465E-86F7-847D12FC9E5A">
             <Text>Near-Future Piece: 69 PCE - Spy games.
@@ -3507,12 +3524,6 @@ H
 		S2 Adopt and maintain the universal piece.
 			C1 Fulfill the FUNCTION imperatives.</Text>
         </Document>
-        <Document ID="662A64A9-F7D3-4ED0-AD0B-9F7CE410B2ED">
-            <Title>piece computer</Title>
-        </Document>
-        <Document ID="47812109-F839-4431-9687-667AE10F40A7">
-            <Title>Why does it matter economically?</Title>
-        </Document>
         <Document ID="49FCBCA2-77FC-453F-AA90-D6CA3F9D4620">
             <Text>Near-Future Piece: 5 PCE - The piece exchange.
 
@@ -3567,31 +3578,8 @@ H
 
 </Text>
         </Document>
-        <Document ID="AC87D56C-9170-473F-9454-B2F5C009EEE5">
-            <Text>COMPETITOR COMPARISON PIECE (INTERLOCK DIFFERENTIATING FEATURES)
-
-PRIMARY DIFFERENTIATION:
-
-Interlock is the only web3 company targeted primarily at protecting users from phishing sites with a token incentivized crowdsourcing approach to refining threat detection. Most web3 cybersecurity companies focus on the exploits themselves (such as this or that malicious software or virus). The reality however is that the real threat is the phishing that goes into delivering the exploit. Usually one way or another, an attacker has to trick a human being into accepting their cyberweapon, or giving up their secret wallet credentials. Interlock acknowledges this and includes end-users in their own threat protection process.
-
-COMPETITORS:
-
-Polyswarm
-This is the only web3 cybersecurity company that employs a token incentivization strategy to crowdsource threat detection like Interlock does. Polyswarm focuses primarily on applying their technology to analyze malicious exploits themselves, but without the primary emphasis on the general phishing attack. Likewise, the crowdsourced helpers are not actually the end-users. In our case, our primary intent is to prevent phishing attacks, and our crowdsourcing comes from the crowd of end-users themselves whom we are trying to protect. For polyswarm, the crowdsourced entities are more like third parties.
-
-Wallet Guard
-This company compares directly against Interlock's malicious URL detection technology, our main intent to address phishing attacks, and our particular implementation as a browser extension product. Wallet Guard does not however, have a crowdsourcing token incentivization program. This means that their heuristics will inevitably lack in refinement because they have no Human component in their threat analysis technology. Our technology (in coming time) includes our end-users in our technology's refinement. Wallet Guard may introduce their own feedback mechanisms that harness their end-users, but they will not have a utility token to incentivize participation.
-
-Guardio
-This company competes directly with Interlock's Threatslayer browser extension, employing many of the technologies and techniques Interlock's threat detection does. Like Wallet Guard however, they lack a crowdsourcing token incentivization program. One could also argue that Guardio is not directly aligned with the ethos of the web3 space. Guardio is more aligned with the web2 transition to revolving primarily around cloud computing and related threat concerns. Like Polyswarm, Guardio is not primarily interested in prioritizing phishing attacks like Interlock does.
-
-Cyvers
-This web3 company seeks to prevent blockchain-based hacks and attacks by monitoring blockchain transaction activity with artificial intelligence. Interlock again focuses on preventing hacks and attacks by addressing the phishing threat first. Our AI/ML is trained to evaluate threats that are off the blockchain but pose a threat to assets held on-chain. Cyvers likewise has no token crowdsourcing incentivization mechanism.
-
-Frontal
-This web3 company is a general cybersecurity firm devoted to securing blockchain-related systems and assets. They have no token incentivization program, and they are more geared toward serving enterprise blockchain systems. Interlock is more about the end-users, and sell to enterprises. Frontal could easily become a customer of Interlock's, purchasing our threat intelligence for a premium. At first glance we are competitors, but we serve different market segments.
-
-</Text>
+        <Document ID="662A64A9-F7D3-4ED0-AD0B-9F7CE410B2ED">
+            <Title>piece computer</Title>
         </Document>
         <Document ID="60AEAC9E-8518-484A-924C-DC6DF2CE6B54">
             <Title>Once upon a time-1</Title>
@@ -4066,6 +4054,22 @@ The goal has always been to reliably predict Human behavior without disturbing H
 
 Naturally--as there has for millennia--there exists a camp of people who see QDP as yet another object of Human creation that may be used to exploit and do worser harm to others. As it happens though, this camp has become quite small, consisting mainly of conspiratorial skeptics of the global peace system, most of them living in the dark zones of the universal piece computeraz. The reality is that the universal piece computer has become sophisticated enough that constants in Human Nature like greed, manipulation, mal-intent--have all been harnessed by the universal piece to minimize Human suffering and maximize well-being. Though QDP still cannot reliably predict individual Human behavior, Humanity feels a collective sense of peace knowing it is doing everything it can to satisfy The Human Imperative.</Text>
         </Document>
+        <Document ID="156FC952-998D-4D96-9334-2555FC2CDF62">
+            <Text>
+
+
+dO	(=I)		tree piece			space piece
+object		piecespace		universal piecetree                   spacetime
+
+X			pieceprocess		the universal piece                   evolution
+
+image		piecebrain			universal piecetime                  timespace
+dI (=O)		time piece			brain piece			
+
+
+
+Universal piecetime is comprised of brain pieces from world piece computers. Time of course, is the transformation of stuff, and time in the context of the universal piece computer is the 'chosen course' of transformation as determined ultimately by the operator. It takes a brain to impart transformation in the optimization process.</Text>
+        </Document>
         <Document ID="752B2D81-D76C-4935-A157-269975CC8FDC">
             <Title>! total overhaul needed</Title>
             <Text>Manual Piece: the universal piece.
@@ -4220,11 +4224,14 @@ This is the inclusive combination of I, we, Humanity, and any intelligent beings
 the Wilder-ness
 This is the quality of being wilder. If something is wilder than wild, then there is still always something beyond that is wilder eve. This space as a whole, is the Wilder-ness. Beyond the conceivable universe lies the Wilder-ness</Text>
         </Document>
-        <Document ID="BCE92C60-5291-4626-A2A4-697D1733C981">
-            <Title>Why should we care?-1</Title>
+        <Document ID="873C7328-BE02-448D-A8FA-21F9559890CE">
+            <Title>chatbot revisions</Title>
         </Document>
         <Document ID="312FBE3C-ABF4-46E2-9E5E-CDD5A8F7E443">
             <Title>Why should WE care?</Title>
+        </Document>
+        <Document ID="BCE92C60-5291-4626-A2A4-697D1733C981">
+            <Title>Why should we care?-1</Title>
         </Document>
         <Document ID="459F73FF-CA5C-425C-848A-1C1D1D6FE286">
             <Text>Motivational Piece: Uncertain inevitability.
@@ -4279,9 +4286,6 @@ But this was just the stickynotes. In this particular world piecespace, there we
 One particular use for the paperclips was bead management. Because they were much less resource expensive--especially in terms of space occupied--there were a lot more beads than paperclips, and of more diverse range of colors. Many beads were mounted on paperclips. Some paperclips only had one bead, loose enough to slide back and forth. Some paperclips had many beads, more like the chains of paperclips dangling around. Some beads were mounted on pushpins, stuck into hats. There were long strings, full of beads. Some were in the form of necklaces, some straight, and one necklace was under construction, a paperclip chain being converted to a bead sequence because it had grown too long.
 
 This was all a lot to take in. </Text>
-        </Document>
-        <Document ID="82501535-FA9A-47DB-8990-B06B429B0AB5">
-            <Title>Why should Humanity care?</Title>
         </Document>
         <Document ID="32B205CC-994D-4B3C-B745-7BA511E90EA0">
             <Text>Past-Piece: 3 PCE - When I am in freefall.
@@ -4361,6 +4365,9 @@ Yeah I know. They’ll get over it.
 Peace fingers up, adopting a weird high-pitched warbled voice. 
 
 	‘I come in peace. !’</Text>
+        </Document>
+        <Document ID="82501535-FA9A-47DB-8990-B06B429B0AB5">
+            <Title>Why should Humanity care?</Title>
         </Document>
         <Document ID="BF0F48A1-D525-497E-A751-069ACA2308DB">
             <Text>Excuse me.. I don't mean to disturb you, but what are you working on?
@@ -4465,10 +4472,6 @@ With vague e seem, to have one eye per dimension of </Text>
 
 Ricci-ricci...ricci-ricci-ricci...ricci...ricci...ricca-rickar-ra-ricci...
 &lt;&lt;redacted&gt;&gt;</Text>
-        </Document>
-        <Document ID="5ACAE7DD-317B-409A-83F1-6C37E3598FCB">
-            <Text>
-</Text>
         </Document>
         <Document ID="A094FC80-2C83-4761-93D7-7C37AF15D98A">
             <Text>Far-Future Piece: .|::|:../\ EX - banging it out.
@@ -4709,10 +4712,6 @@ If you are a fellow American, I implore you to take the piece computer invention
 
 And fundamentally, we introduced the most horrific technology to our species. Because of us, Humans currently face a real possibility of global nuclear holocaust. Because of us, countless civilians experienced the unthinkable terror of two moments, Hiroshima and Nagasaki. We have a debt to pay.</Text>
         </Document>
-        <Document ID="ECF6EC02-AB9E-47FD-A42F-8FEAAF49E258">
-            <Title>more money</Title>
-            <Text>314 PCE</Text>
-        </Document>
         <Document ID="E900C041-9508-4C6A-AED7-3C6CA028DD05">
             <Title>Opening-1</Title>
             <Text>Opening Notes
@@ -4822,6 +4821,10 @@ The first order of business is to invent the universal piece computer to produce
 Ends:
 
 We need a global peace process now. By the time people have read this book, the ones who are interested will have a functioning world piece computer up and running. We will do our best to fumble in the dark to find each other, eventually settling on a common networking protocol, and a shared definition for what global peace is and how it should be treated. We will work toward an event, where we take our first global peace measure of net inner peace, then we will make our first evolutionary change to the universal piece and start the clock.</Text>
+        </Document>
+        <Document ID="ECF6EC02-AB9E-47FD-A42F-8FEAAF49E258">
+            <Title>more money</Title>
+            <Text>314 PCE</Text>
         </Document>
         <Document ID="85A85341-110F-4D0A-ADCE-CE539522FB13">
             <Text>Origin Piece (( 1 )) State of being.
@@ -5723,6 +5726,49 @@ Thus, drawing from Verbal Judo's model for education, the educational objective 
 
 Let's begin.</Text>
         </Document>
+        <Document ID="A343B22A-4DA5-4599-8C6B-88CC6EF927A5">
+            <Text>Near-Future Piece: 69 PCE - Timespace.
+
+The emphasis of physics these days is to create a new branch of the discipline, one to explain the subjective reality around us. This quickly brought us to the realization that time is more fundamental than any of the spatial dimensions, where the four dimensions of spacetime from classical objective physics are those considered spatial dimensions, including the dimension of time. (Although time is a privileged spatial dimension because from our perspective we cannot reverse time.)
+Timespace is what you get when you think of spacetime strictly in terms of cycles. Around 200 years pre-PCE, a Human by the name of Joseph Fourier invented what was probably the most profound devices in mathematics to this day. This was naturally chosen to be called the Fourier Transform (pronounced 4-E-A transform). The Fourier transform allows us to think of the world in terms of cycles, or repetition.
+The transform works like so: I can take any well-behaved function that describes an outcome in terms of some input, and I can transform that function into a collection of wiggles. There wiggles are cycles or repetitions, being what we call the frequency content of the function that describes the behavior of whatever I'm interested in.
+A classic example of what I mean by this is the music heard by the ear from a song. A song is a collection of instruments and beats and notes, all blended together into a single sound wave. If you were to visualize what this wave looked like traveling through the air toward your ear, you would see only a single complicated waveform, or wiggle. You would not be able to tell by looking at this single waveform what instruments and notes are playing without listening to the waveform yourself. But, if I take that waveform and apply this mathematical Fourier transform to it, then the output will be the collection of all the individual frequencies playing. 
+After taking the Fourier transform, you would see distinct high frequency content that you could identify as perhaps a violin. You could see other frequencies that you could identify as bells, or singing. You would see low frequency that is the bass, or even lower, the slow beat of a drum. With knowledge of all these different frequencies from that single waveform, you can then pick and choose which you would like to study. You could erase the low frequency leaving only the violin and bells. You could make the low frequency bass stronger, or louder. You can even add frequencies. Then you can apply the inverse Fourier transform to smash everything back together into a single song, and listen to the changes.
+This is a primary example of something called filtering. Filtering lets us take a complicated and singular world that surrounds us, and break it into manageable chunks. By applying a Fourier transform, we are effectively speaking the language of whatever it is we are breaking into chunks. This approach to making sense of our surroundings is so wildly successful, that without it, we would not have what we have today in terms of technology.
+So. Timespace and spacetime. As it turned out, every single type of output from a function can be considered a quality. Interestingly, every single quality happens to be embedded within the fundamental spatial dimensions of spacetime. In other words, it is impossible to think objectively about a quality without it being tied somehow to spacetime. We call these correlates.
+For example, if you think about the difference between red and blue in your head, you might say that this is beyond the realm of spacetime. You would be wrong however, because by virtue of thinking about red and blue, you must switch between thinking about the two in a cycle of comparison. I can relate this to spacetime by watching the difference in brain activity through time and space. As long as I have information about which color you are thinking of in the moment—red, blue, or both—I can create a function that correlates your comparison process in terms of spacetime. That is, even if it is just in your head, as long as I know what red looks like in this context, I can apply a Fourier transform to your brain activity to tell you at exactly what frequencies you tend to think about red.
+The point is that the entire world of subjective qualities can map to the domain of cycles and repetitions via a Fourier transform. We call this domain timespace. It was called this to emphasize that cycles and repetitions are the tick-tocks of how stuff evolves. In timespace we can define the passage of time as 'change X per cycle Y'. This is much different than spacetime's time, where the passage of time is just 'stuff moves around per second'.
+We can take all the little cycles and add them together to form chains and larger cycles. My quality of position in spacetime may in frequency domain look like I am pacing in a circle at my desk. However, taking these smaller qualities as a whole and looking over much larger and longer regions in spacetime, we might see that these pacing cycles are part of a much larger cycle called 'going to work each day'.
+The interesting takehome here is that every cycle in timespace and the corresponding movement of stuff through spacetime, no matter how large or complex, has a qualitative signature. That is, an experience, where the feel of which depends on surrounding context, and whatever object is serving as the observer.
+In my going to work cycle, there is this one chunk of broken concrete experiences this cycle too, because every time I seem to step on it just enough to trip me a little. Every time I step on it, this chunk feels my gravitational pull as I near it, and when close enough, it feels my atoms repel against it and push hard when I step. The concrete doesn't have a brain, so all it has is the simple context of the ground beneath it pushing back. Thus, each time I trip on this concrete, the chunk experiences deformation, every day at around the same time. Me however, I have a brain and a lifetime of experience imprinted on my neural network, so every time I find myself stepping on the chunk walking into the office, my experience is one of disappointment to be going to work, then irritation when I trip on the chunk. All of this is just a single cycle. If we were to think of such a cycle in terms of a physical object by defining the duration of one cycle as a single moment, my body would look like a smear through spacetime. Variations in my cycle over the course of many cycles would look like a smear, blurring in different minute ways that correspond to deviations in that cycle.
+From the field of plasma physics, we can describe a complex cycle in similar terms as what we call adiabatic invariance. Adiabatic invariance is just when the essence of an object's cycle changes very slowly for each go around. When a cycle evolves, we often speak in terms of the residue that it leaves behind, or the nature of the change. The residue is the fundamental unit of passing time in timespace, and we make sense of a cycle's motion in terms that are relative to other cycles. 
+The reason any of this became important is because any world piece computer—and especially the universal piece computer—needs to have a clock to coordinate synchronization of our limited people, time, and energy. A piece computer needs a way to tick and tock to synchronize, and it needs a way to express what happens between each tick and tock.
+Timespace provides the resolution needed to accomplish this. The problem with the spacetime domain is that it only has one unit per dimension, four—which in our case is the second and the meter (or foot). This means that we have one unit to express our most important commodity which is our objective time, and this is extremely low fidelity.
+The great thing about timespace is that now we can have all the units we need, and one dimension per unit. Each dimension here is a cycle that corresponds to a subjective quality, and each dimension can be linked to the other dimensions that are relevant, relating to one another via a web of propagating residues.
+To differentiate from objective time, we explicitly call this subjective time, mainly to highlight the fact that each timeloop has a corresponding quality. Ultimately we can take these cycles and relate them back to objective time, either by taking the inverse Fourier transform of each quality involved, or by counting objective time in terms of how long it takes a cycle to complete.
+One of the primary tasks of the universal piece computer is to treat each world piece computer as its own lattice of linked subjective timeloops—all the day-to-day cycles and activities in a world—and link them together with a larger timeloop one level up.
+We call the map of linked timeloops, a timepiece. The timepiece itself is a world piece computer's clock, ultimately linking up to the universal timepiece at the global level of the universal piece computer. This subjective time architecture enables us to employ simple artificial intelligence bots that crawl the universal timepiece searching for new patterns within all the nooks and crannies of the subjective timeloops to help with the overall process of optimizing world synchronization.
+The universal piece (the global peace process) happens to ride on top of the universal timepiece. Because the operations within the peace process must be aligned just right (in the same way bits need to be aligned in the modern electronic computer), and because the alternating tick tock of peace state updates and changes must align with other loops, the timepiece is a fundamental piece within every functioning world piece computer.
+Ultimately, the scope of interest reaches peace as the product, be this at the core state of individual inner peace, or or inner peace taken as a sum globally producing the state of global peace. This is where we translate all subjective timeloops back into objective time to take a measure of or a change to the peace state in a given moment. The passage of inner peace or global peace states from moment to moment is what we call piecetime. [[fucking stupid shitty sentence - fix all ]]
+Timespace is interesting because the timeloops themselves are the singular objects. In other  words, timeloops are points in timespace. To differentiate these loops from spacetime objects, we choose to call timeloops bodies. Even spacetime objects that are not moving has a trivial timeloop, which is just the body with a timespace smear equal its object. Even trivial timeloops have a corresponding quality, which is simply the quality of the object being at a stationary position, or location. We believe there is probably a fundamental comparison rate that may set the 'common time' for all comparison operations within timespace.
+These days, we tend to call bodies in timespace pieces. Every piece has a corresponding spacetime object, it has a quality, and it has an image.
+In objective physics, objects are made up of particles that cannot overlap, and they interact by exchanging force via different particles called light that can overlap. These are called Fermions for objects, and bosons for light or image. All the motion of objects can be explained in terms of the shape of spacetime and the light that bounces around filling all space. Each object in spacetime likewise has an experience that is defined as the image it 'sees' from the light generated by other interacting objects. In most cases that we are familiar with in our day-to-day living, these light particles are called photons.
+In subjective physics, bodies are likewise made out of particles that cannot overlap. These particles are pieces. For each piece, or timeloop, one and only one may exist. If a second piece of the same quality exists, then it is occupying a different point in timespace, with the difference generally being the quality of 'different place' in spacetime. (For example, one person thinking 'apple' in spacetime cannot correspond to two apple timeloop bodies in timespace. However, two people thinking 'apple' will have two identical timeloop bodies, besides the quality of both people occupying different space.)
+The 'light' of timespace acts the same way as light in spacetime. Pieces are constantly exchanging what we call qualitons, or the analogue to photons. Depending on the composition of two pieces and their position in timespace, pieces exchange qualitons for which any number possible can overlap. Although the mechanisms are poorly understood at the moment, qualitons appear to mediate piece behavior, just like photons mediate spacetime objects via the electromagnetic force.
+(There are also the strong and weak nuclear forces of spacetime with their own Fermions and Bosons. These forces likewise have analogs in timespace, but that is beyond the scope of this piece.)
+At this point it is crucial to note that spacetime is a fundamental object, but it is not the fundamental space. However, every piece in timespace is believed to contain as one of its constituent qualities, an object in spacetime. We do not definitely know if it is possible to have an isolated piece with no object. Many people now believe in Platonic forms, which is exactly such expression, where concepts such as 'triangle' or 'circle' exist in pure form without a correlating spacetime object, but that is a different debate.
+This distinction is important because it appears that the passage of subjective time in timespace is directional, and probably for the same reason that spacetime objective time is directional. It seems that pieces in timespace are either falling through timespace with a velocity, or they are still and timespace is flowing around like a headwind. Not that this matters, but it might. As pieces interact with each other, they struggle to stay oriented properly with the wind of time, facing forward with their spacetime objects, and they accumulate and copy pieces as time goes on, becoming larger and larger with more and more experience, or qualiton capture. This is important because it appears that Human individuals are the tallest of these growing mountainous bodies, and all the extra qualitons they emit both deliberately and reflexively appear to be the causal mediators of all non trivial transformation.
+As per the actual intelligence essay, the reason this is important is that massive individual timespace bodies appear to gravitate toward one another according to both similarity and difference. The outcome of such a gravitational interaction however, depends on this similarity-difference valence. Qualitative difference physicists at currently working out how to extend the spacetime geometry conception of gravity to subjective physics and the timespace model.
+We believe nonetheless, that the reason for any transformation in timespace is due to actual intelligence changing the shape of timespace thus changing the straight-line acceleration of objects by a similar equivalence relation like form general relativity. This may be something as simple as a statement of qualitative equivalence, quality being the analog to mass in spacetime. This is pretty speculative though, so we leave it to rest for most practical concerns.
+One important point to remember when thinking about the universal piece computer, is that every piece—or timespace body—is an entire world of its own. These worlds again, do not overlap in timespace, though they are allowed to overlap in spacetime. That is, in our spatial objective reality, pieces can overlap and nest.
+This is especially important when considering world piece computers. The amount of overlapping and nesting of world piece computers and all their constituent pieces is quite mind boggling. One of the primary reasons subjective physics has taken off like it has is for its ability to conceptualize worlds in terms of pieces that cannot overlap in timespace. In terms of subjective time, there is very little room for conceptual overlap, again largely because each piece has its own dimension of time. Instead of a mess of worlds all tangled up, we now have a formalism that allows us to treat pieces as if they were part of a puzzle.
+Probably the most practical way this serves the universal piece computer harks back to the topic of universal language. Now we can clearly draw a line between overlapping worlds and apply a universal communication protocol to bridge that line between them. This is what the universal piece process does, primarily facilitated by the universal timepiece, managing the connections between all these Human worlds.
+This is admittedly super abstract, and painfully hard to follow at first treatment, which is why most people who dive deeper than what we just covered are trained theoretical piece physicists. Qualitative difference physics is the kernel of a world piece computer operating system, while the timespace formalism has more to do with the first principles that explain the actual piece computer's hardwear functionality on the fundamental level. Having a solid physical model to understand the nature of Human subjective reality has turned out to be vastly more lucrative than the objective physics that ushered in the advent of the internet, thus paving the way to global peace.
+One thing is irrefutable. Inventing a better understanding of time has been invaluable for the process of establishing, measuring, and improving our state of inner and global peace. Timespace as a model of subjective reality is essential for keeping reliable piecetime.</Text>
+            <Comments>Joseph Fourier: https://en.wikipedia.org/wiki/Joseph_Fourier
+Fourier transform: https://en.wikipedia.org/wiki/Fourier_transform
+function: https://en.wikipedia.org/wiki/Function_(mathematics)</Comments>
+        </Document>
         <Document ID="02F80FDD-6305-48F0-A76D-1DE2D5A1456E">
             <Text>Manual Piece: Operation.
 [[ add synopsis ]]
@@ -5834,17 +5880,6 @@ The two instances of The Individual got up to go climb O'mally Peak, dazed, like
 
 AI oppression: https://en.wikipedia.org/wiki/The_Terminator
 heat death of the universe: it's probably bullshit actually ;)</Comments>
-        </Document>
-        <Document ID="B0ADA43E-6798-4A65-B07C-B47D620E7218">
-            <Text>Conversation Piece.
-
-
-The most I can do is start a conversation. I hope it turns into movement toward Human unity and solidarity.
-Let's join in movement. Let's rewire our brains to be more peaceful.
-
-This book is dedicated to victims of, those currently suffering from, and those lost to generalized war.
-
-</Text>
         </Document>
     </Documents>
 </SearchIndexes>

@@ -8,5 +8,5 @@ gpt4all/
 ]*
 
 # system stuff
-*.swp
+*.sw*
 .DS_STORE
