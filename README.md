@@ -1,3 +1,5 @@
+Relax. This is conceptual peace art. And yeah, it's messy.
+
 # README: Time Machine For Peace Social Invention Program
 
 Hi! I'm Blair. I'm glad you found this space! My hope is that you join in, make a good time of it, make the world a better place, but in a way that hasn't been done before.
